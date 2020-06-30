@@ -1,0 +1,96 @@
+<nav
+  class="site-header navbar navbar-expand-md navbar-dark bg-dark"
+  style="margin-bottom: 15px"
+>
+  <div class="container d-flex flex-column flex-md-row justify-content-between">
+    <div class="dropdown" dropdown>
+      <a class="dropdown-toggle py-2 d-none d-md-inline-block" dropdownToggle style="color: #fff">
+        Morning Report
+      </a>
+      <div class="dropdown-menu mt-3" *dropdownMenu>
+
+        <a class="dropdown-item" href="#">Report View</a>
+        <div class="dropdown-divider"></div>
+        <a class="dropdown-item" href="#">Rolling Mill Entry</a>
+        <div class="dropdown-divider"></div>
+        <a class="dropdown-item" [routerLink]="['/schlentry']">Schlatter Entry</a>
+        <div class="dropdown-divider"></div>
+        <a class="dropdown-item" [routerLink]="['/meshentry']">Smei Entry</a>
+        <div class="dropdown-divider"></div>
+        <a class="dropdown-item" href="#">EVG 1 Entry</a>
+        <div class="dropdown-divider"></div>
+        <a class="dropdown-item" href="#">EVG 2 Entry</a>
+        <div class="dropdown-divider"></div>
+        <a class="dropdown-item" href="#">CO2 Liquid Entry</a>
+        <div class="dropdown-divider"></div>
+        <a class="dropdown-item" href="#">CO2 Spool Entry</a>
+      </div>
+    </div>
+
+    <div class="dropdown" dropdown>
+      <a class="dropdown-toggle py-2 d-none d-md-inline-block" dropdownToggle style="color: #fff">
+        Products
+      </a>
+      <div class="dropdown-menu mt-3" *dropdownMenu>
+
+        <a class="dropdown-item" href="#">Merchant Bars</a>
+        <div class="dropdown-divider"></div>
+        <a class="dropdown-item" href="#">Rebars</a>
+        <div class="dropdown-divider"></div>
+        <a class="dropdown-item" [routerLink]="['/meshproducts']">Mesh Products</a>
+        <div class="dropdown-divider"></div>
+        <a class="dropdown-item" href="#">Overnet</a>
+        <div class="dropdown-divider"></div>
+        <a class="dropdown-item" href="#">Perinet</a>
+        <div class="dropdown-divider"></div>
+        <a class="dropdown-item" href="#">Welding Wire</a>
+      </div>
+    </div>
+
+    <div class="dropdown" dropdown>
+      <a class="dropdown-toggle py-2 d-none d-md-inline-block" dropdownToggle style="color: #fff">
+        Budgeted Productivity
+      </a>
+      <div class="dropdown-menu mt-3" *dropdownMenu>
+
+        <a class="dropdown-item" href="#">Merchant Bars</a>
+        <div class="dropdown-divider"></div>
+        <a class="dropdown-item" href="#">Rebars</a>
+        <div class="dropdown-divider"></div>
+        <a class="dropdown-item" [routerLink]="['/meshProductivity']">Mesh Products</a>
+        <div class="dropdown-divider"></div>
+        <a class="dropdown-item" href="#">Overnet</a>
+        <div class="dropdown-divider"></div>
+        <a class="dropdown-item" href="#">Perinet</a>
+        <div class="dropdown-divider"></div>
+        <a class="dropdown-item" href="#">Welding Wire</a>
+      </div>
+    </div>
+
+    <ul class="navbar-nav mr-auto">
+      <li class="nav-item" routerLinkActive="active">
+        <a class="nav-link" [routerLink]="['/workers']">Workers</a>
+      </li>
+      <li class="nav-item" routerLinkActive="active">
+        <a class="nav-link" [routerLink]="['/products']">Products</a>
+      </li>
+      <li class="nav-item" routerLinkActive="active">
+        <a class="nav-link" [routerLink]="['/values']">Values</a>
+      </li>
+    </ul>
+
+
+    
+    <div class="dropdown" dropdown>
+      <a class="dropdown-toggle py-2 d-none d-md-inline-block" dropdownToggle style="color: #fff">
+        Welcome {{ this.authService.decodedToken.unique_name }}
+      </a>
+      <div class="dropdown-menu mt-3" *dropdownMenu>
+        <a class="dropdown-item" href="#"><i class="fa fa-user"></i> Edit Profile</a>
+        <div class="dropdown-divider"></div>
+        <a class="dropdown-item" (click)="logout()"><i class="fa fa-sign-out"></i> Logout</a
+        >
+      </div>
+    </div>
+  </div>
+</nav>

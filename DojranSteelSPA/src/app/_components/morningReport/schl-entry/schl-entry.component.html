@@ -1,0 +1,62 @@
+<div class="container" style="margin-top: auto;">
+
+        <form [formGroup]="entryForm">
+          <form formArrayName="rows" class="well well-lg">
+
+  <div class="table-responsive"  style="padding-bottom: 20px;">
+    <!-- <div class="col-lg-4 col-md-6 col-sm-12"> -->
+      <table style="width:100%;">
+        <tr>
+          <th>Date</th>
+          <th>SAP Code</th>
+          <th>Material Description</th>
+          <th>Quantity in Pieces</th>
+          <th>Quantity in Tons</th>
+          <th>Available Time</th>
+          <th>Budgeted Qunatity in PC</th>
+        </tr>
+        <!-- (ngSubmit)="eneterProduction()" -->
+        <tr *ngFor="let item of no_rows.controls; let i=index" [formGroupName]="i">
+
+                <td><input class="form-control" formControlName="date" type="text" bsDatepicker [bsConfig]="{ dateInputFormat: 'DD/MM/YYYY' }"></td>
+                
+                <td><div>{{item.value["sapCode"] || ""}}</div></td>
+                
+                <td><select (change)="selectProduct(i)" class="form-control" formControlName="description">
+                  <option>---</option>
+                  <option *ngFor="let schlatterProduct of schlatterProducts">{{schlatterProduct.description}}</option>
+                </select></td>
+
+                <td><input class="form-control" formControlName="qunatityPc">
+                   <!-- [ngClass]="{'is-invalid': entryForm.get('qunatityPc').errors && entryForm.get('qunatityPc').touched}"> -->
+                   
+                <div class="invalid-feedback"
+                 *ngIf="entryForm.get('rows').value.index.touched && entryForm.get('rows').value.controls.index.hasError('required')">qunaityPc is required</div>
+                </td>
+
+                <td><input class="form-control" formControlName="qunatityTn">
+                   <!-- [ngClass]="{'is-invalid': entryForm.get('qunatityTn').errors && entryForm.get('qunatityTn').touched}">
+                <div class="invalid-feedback" *ngIf="entryForm.get('qunatityTn').touched && entryForm.get('qunatityTn').hasError('required')">qunaityTn is required</div> -->
+              </td>
+
+                <td><input class="form-control" formControlName="availableTime" (focusout)="calculateBD($event.target.value, i)">
+                    <!-- [ngClass]="{'is-invalid': entryForm.get('availableTime').errors && entryForm.get('availableTime').touched}">
+                <div class="invalid-feedback" *ngIf="entryForm.get('availableTime').touched && entryForm.get('availableTime').hasError('required')">qunaityPc is required</div> -->
+              </td>
+
+              <td><div>{{item.value["qunatityBd"] || ""}}</div></td>
+              <p>Form value: {{entryForm.get('rows').value | json}}</p>
+
+      </tr>
+      </table>
+
+     
+  </div>
+          </form>
+        </form>
+
+</div>
+<p>Form value: {{entryForm.value | json}}</p>
+<p>Form status: {{entryForm.status | json}}</p>
+<p>Form value: {{no_rows[1] | json}}</p>
+

@@ -1,0 +1,67 @@
+<div class="container" style="margin-top: auto;">
+  <div class="table-responsive"  style="padding-bottom: 20px;">
+    <!-- <div class="col-lg-4 col-md-6 col-sm-12"> -->
+      <table style="width:100%;">
+        <tr>
+          <th>Product ID</th>
+          <th>SAP Code</th>
+          <th>Material Description</th>
+          <th>Material Group</th>
+          <th>Production Line</th>
+          <th>Theoretical Weight</th>
+          <th>Base Unit of Measure</th>
+          <th>Width</th>
+          <th>Lenght</th>
+          <th>Line Wire Distance</th>
+          <th>Cross Wire Distance</th>
+          <th>Raw Line Wire Size</th>
+          <th>Raw Cross Wire Size</th>
+          <th>Line Wire Size</th>
+          <th>Cross Wire Size</th>
+          <th>Pieces in Bundle</th>
+          <th>Number of Line Wires</th>
+          <th>Number of Cross Wires</th>
+          <th>Weight of Line Wires</th>
+          <th>Weight of Cross Wires</th>
+          <th>Mesh Weight</th>
+          <th>Bundle Weight</th>
+          <th>Max Welds Per Minute</th>
+          <th>Budgeted Eficiency</th>
+          <th>Budgeted Welds Per Minute</th>
+          <th>EDIT</th>
+        </tr>
+        <tr *ngFor="let product of meshProducts">
+          <td>{{product.id}}</td>
+          <td>{{product.sapCode}}</td>
+          <td>{{product.description}}</td>
+          <td>{{product.materialGroupNumber}}</td>
+          <td>{{product.productionLine}}</td>
+          <td>{{product.theoreticalWeight}}</td>
+          <td>{{product.baseUnitOfMeasure}}</td>
+          <td>{{product.width}}</td>
+          <td>{{product.lenght}}</td>
+          <td>{{product.lineWireDistance}}</td>
+          <td>{{product.crossWireDistance}}</td>
+          <td>{{product.rawLineWireSize}}</td>
+          <td>{{product.rawCrossWireSize}}</td>
+          <td>{{product.lineWireSize}}</td>
+          <td>{{product.crossWireSize}}</td>
+          <td>{{product.piecesInBundle}}</td>
+          <td>{{product.numberOfLineWires}}</td>
+          <td>{{product.numberOfCrossWires}}</td>
+          <td>{{product.weightOfLineWires}}</td>
+          <td>{{product.weightOfCrossWires}}</td>
+          <td>{{product.theoreticalWeight}}</td>
+          <td>{{product.bundleWeight}}</td>
+          <td>{{product.maxWeldsPerMinute}}</td>
+          <td>{{product.budgetedEficiency | percent: '1.2'}}</td>
+          <td>{{product.budgetedWeldsPerMinute}}</td>
+          <td><a [routerLink]="['/meshproductedit', product.id]" >edit</a></td>
+        </tr>
+      </table>
+
+      <div class="card-footer">
+        <button [routerLink]="['/meshproductadd']" class="btn btn-primary btn-block">Add new mesh product</button>
+      </div>
+  </div>
+</div>

@@ -1,0 +1,57 @@
+<ng-form #productivityForm="ngForm" id="productivityForm" (ngSubmit)="saveChanges()">
+<div class="container table-responsive" style="margin-top: auto; padding-bottom: 20px;">
+
+  <tr *ngFor="let productivity of meshProductivity">
+    <td>{{productivity.productionLine}}</td>
+    <td>{{productivity.rawCrossWireSize}}</td>
+    <td>{{productivity.crossWireSize}}</td>
+    <td>{{productivity.averageWeldsMinute}}</td>
+    <td>{{productivity.wireEfectivity | percent: '1.2'}}</td>
+    <td>{{productivity.crossWireDistance}}</td>
+    <td>{{productivity.squareEfectivity | percent: '1.2'}}</td>
+    <!-- <td><a [routerLink]="['/meshproductedit', productivity.id]" >edit</a></td> -->
+  </tr>
+
+      <table style="width:100%;">
+        <tr>
+          <th>Production Line</th>
+          <th>Raw Wire Size</th>
+          <th>Calibrated Wire Size</th>
+          <th>Average Welds per Minute</th>
+          <th>Wire Efectivity</th>
+          <th>Cross Wire Distance</th>
+          <th>Square Efectivity</th>
+          <!-- <th>EDIT</th> -->
+        </tr>
+        
+        <tr *ngFor="let productivity of meshProductivity">
+          <td><input class="form-control" [ngModelOptions]="{standalone: true}" [(ngModel)]="productivity.productionLine"></td>
+          <td><input class="form-control" [ngModelOptions]="{standalone: true}" [(ngModel)]="productivity.rawCrossWireSize"></td>
+          <td><input class="form-control" [ngModelOptions]="{standalone: true}" [(ngModel)]="productivity.crossWireSize"></td>
+          <td><input class="form-control" [ngModelOptions]="{standalone: true}" [(ngModel)]="productivity.averageWeldsMinute"></td>
+          <td><input class="form-control" [ngModelOptions]="{standalone: true}" [ngModel]="productivity.wireEfectivity | percent: '1.2'"></td>
+          <td><input class="form-control" [ngModelOptions]="{standalone: true}" [(ngModel)]="productivity.crossWireDistance"></td>
+          <td><input class="form-control" [ngModelOptions]="{standalone: true}" [ngModel]="productivity.squareEfectivity | percent: '1.2'"></td>
+          <!-- <td><a [routerLink]="['/meshproductedit', productivity.id]" >edit</a></td> -->
+        </tr>
+        <tr *ngIf="show">
+          <td><input class="form-control" name="productionLine"></td>
+          <td><input class="form-control" name="rawCrossWireSize"></td>
+          <td><input class="form-control" name="crossWireSize"></td>
+          <td><input class="form-control" name="averageWeldsMinute"></td>
+          <td><input class="form-control" name="wireEfectivity"></td>
+          <td><input class="form-control" name="crossWireDistance"></td>
+          <td><input class="form-control" name="squareEfectivity"></td>
+        </tr>
+        
+      </table>
+
+      <div class="card-footer">
+        <button *ngIf="!show" (click)="showtoogle()" class="btn btn-primary" style="width:48%; margin-right: 10px;">Add new Budgeted Productivity</button>
+        <button *ngIf="show" (click)="showtoogle()" class="btn btn-primary" style="width:24%; margin-right: 10px;">Save</button>
+        <button *ngIf="show" (click)="showtoogle()" class="btn btn-primary" style="width:24%; margin-right: 10px;">Cancel</button>
+        <button [disabled]="!productivityForm.dirty" style="width:48%" form="productivityForm" class="btn btn-success">Save Changes</button>
+      </div>
+
+  </div>
+</ng-form>

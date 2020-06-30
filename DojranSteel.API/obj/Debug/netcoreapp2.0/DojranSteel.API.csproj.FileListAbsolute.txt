@@ -1,0 +1,11 @@
+C:\App\DojranSteel\DojranSteel.API\bin\Debug\netcoreapp2.0\DojranSteel.API.deps.json
+C:\App\DojranSteel\DojranSteel.API\bin\Debug\netcoreapp2.0\DojranSteel.API.runtimeconfig.json
+C:\App\DojranSteel\DojranSteel.API\bin\Debug\netcoreapp2.0\DojranSteel.API.runtimeconfig.dev.json
+C:\App\DojranSteel\DojranSteel.API\bin\Debug\netcoreapp2.0\DojranSteel.API.dll
+C:\App\DojranSteel\DojranSteel.API\bin\Debug\netcoreapp2.0\DojranSteel.API.pdb
+C:\App\DojranSteel\DojranSteel.API\obj\Debug\netcoreapp2.0\DojranSteel.API.csprojAssemblyReference.cache
+C:\App\DojranSteel\DojranSteel.API\obj\Debug\netcoreapp2.0\DojranSteel.API.csproj.CoreCompileInputs.cache
+C:\App\DojranSteel\DojranSteel.API\obj\Debug\netcoreapp2.0\DojranSteel.API.AssemblyInfoInputs.cache
+C:\App\DojranSteel\DojranSteel.API\obj\Debug\netcoreapp2.0\DojranSteel.API.AssemblyInfo.cs
+C:\App\DojranSteel\DojranSteel.API\obj\Debug\netcoreapp2.0\DojranSteel.API.dll
+C:\App\DojranSteel\DojranSteel.API\obj\Debug\netcoreapp2.0\DojranSteel.API.pdb

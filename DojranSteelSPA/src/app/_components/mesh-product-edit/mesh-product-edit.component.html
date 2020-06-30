@@ -1,0 +1,187 @@
+<div class="container" style="align-self: center; width:100%;">
+<form #editForm="ngForm" id="editForm" (ngSubmit)="updateProduct()">
+<div class="row">
+
+  <div class="col-sm-6">
+      <h1 style="text-align: center;">Basic Data</h1>
+      <br>
+      <div class="form-group row">
+        <label for="sapCode" class="col-sm-4 col-form-label">SAP Code</label>
+        <div class="col-sm-8">
+          <input class="form-control" name="sapCode" [(ngModel)]="product.sapCode">
+        </div>
+      </div>
+
+      <div class="form-group row">
+        <label for="decription" class="col-sm-4 col-form-label">Decription</label>
+        <div class="col-sm-8">
+          <input class="form-control" name="description" [(ngModel)]="product.description">
+        </div>
+      </div>
+
+      <div class="form-group row">
+        <label for="materialGroupNumber" class="col-sm-4 col-form-label">Material Group Number</label>
+        <div class="col-sm-8">
+          <input class="form-control" name="materialGroupNumber" [(ngModel)]="product.materialGroupNumber">
+        </div>
+      </div>
+
+      <div class="form-group row">
+        <label for="productionLine" class="col-sm-4 col-form-label">Production Line</label>
+        <div class="col-sm-8">
+          <select class="custom-select" name="productionLine" [(ngModel)]="product.productionLine">
+            <option disabled selected>{{product.productionLine}}</option>
+            <option>Smei</option>
+            <option>Schlatter</option>
+          </select>
+        </div>
+      </div>
+
+      <div class="form-group row">
+        <label for="baseUnitOfMeasure" class="col-sm-4 col-form-label">Base Unit of Measure</label>
+        <div class="col-sm-8">
+          <input class="form-control" name="baseUnitOfMeasure" [(ngModel)]="product.baseUnitOfMeasure">
+        </div>
+      </div>
+
+      <div class="form-group row">
+        <label for="width" class="col-sm-4 col-form-label">Width</label>
+        <div class="col-sm-8">
+          <input class="form-control" name="width" [(ngModel)]="product.width">
+        </div>
+      </div>
+
+      <div class="form-group row">
+        <label for="lenght" class="col-sm-4 col-form-label">Lenght</label>
+        <div class="col-sm-8">
+          <input class="form-control" name="lenght" [(ngModel)]="product.lenght">
+        </div>
+      </div>
+
+      <div class="form-group row">
+        <label for="lineWireDistance" class="col-sm-4 col-form-label">Line Wire Distance</label>
+        <div class="col-sm-8">
+          <input class="form-control" name="lineWireDistance" [(ngModel)]="product.lineWireDistance">
+        </div>
+      </div>
+
+      <div class="form-group row">
+        <label for="crossWireDistance" class="col-sm-4 col-form-label">Cross Wire Distance</label>
+        <div class="col-sm-8">
+          <input class="form-control" name="crossWireDistance" [(ngModel)]="product.crossWireDistance">
+        </div>
+      </div>
+
+      <div class="form-group row">
+        <label for="rawLineWireSize" class="col-sm-4 col-form-label">Raw Line Wire Size</label>
+        <div class="col-sm-8">
+          <input class="form-control" name="rawLineWireSize" [(ngModel)]="product.rawLineWireSize">
+        </div>
+      </div>
+
+      <div class="form-group row">
+        <label for="rawCrossWireSize" class="col-sm-4 col-form-label">Raw Cross Wire Size</label>
+        <div class="col-sm-8">
+          <input class="form-control" name="rawCrossWireSize" [(ngModel)]="product.rawCrossWireSize">
+        </div>
+      </div>
+
+      <div class="form-group row">
+        <label for="lineWireSize" class="col-sm-4 col-form-label">Line Wire Size</label>
+        <div class="col-sm-8">
+          <input class="form-control" name="lineWireSize" [(ngModel)]="product.lineWireSize">
+        </div>
+      </div>
+
+      <div class="form-group row">
+        <label for="crossWireSize" class="col-sm-4 col-form-label">Cross Wire Size</label>
+        <div class="col-sm-8">
+          <input class="form-control" name="crossWireSize" [(ngModel)]="product.crossWireSize">
+        </div>
+      </div>
+
+      <div class="form-group row">
+        <label for="piecesInBundle" class="col-sm-4 col-form-label">Pieces in Bundle</label>
+        <div class="col-sm-8">
+          <input class="form-control" name="piecesInBundle" [(ngModel)]="product.piecesInBundle">
+        </div>
+      </div>
+  </div>
+
+
+  <div class="col-sm-6">
+      <button form="derivedData" class="btn btn-success btn-block" (click)="calcDerivedData()">Calcualte Derived Data</button>
+      <br>
+      <div class="form-group row">
+        <label for="numberOfLineWires" class="col-sm-4 col-form-label">Number of Line Wires</label>
+        <div class="col-sm-8">
+          <input class="form-control" name="numberOfLineWires" [(ngModel)]="product.numberOfLineWires">
+        </div>
+      </div>
+
+      <div class="form-group row">
+        <label for="numberOfCrossWires" class="col-sm-4 col-form-label">Number of Cross Wires</label>
+        <div class="col-sm-8">
+          <input class="form-control" name="numberOfCrossWires" [(ngModel)]="product.numberOfCrossWires">
+        </div>
+      </div>
+
+      <div class="form-group row">
+        <label for="weightOfLineWires" class="col-sm-4 col-form-label">Weight of Line Wires</label>
+        <div class="col-sm-8">
+          <input class="form-control" name="weightOfLineWires" [ngModel]="product.weightOfLineWires">
+        </div>
+      </div>
+
+      <div class="form-group row">
+        <label for="weightOfCrossWires" class="col-sm-4 col-form-label">Weight of Cross Wires</label>
+        <div class="col-sm-8">
+          <input class="form-control" name="weightOfCrossWires" [(ngModel)]="product.weightOfCrossWires">
+        </div>
+      </div>
+
+      <div class="form-group row">
+        <label for="theoreticalWeight" class="col-sm-4 col-form-label">Theoretical Weight</label>
+        <div class="col-sm-8">
+          <input class="form-control" name="theoreticalWeight" [(ngModel)]="product.theoreticalWeight">
+        </div>
+      </div>
+
+      <div class="form-group row">
+        <label for="bundleWeight" class="col-sm-4 col-form-label">Bundle Weight</label>
+        <div class="col-sm-8">
+          <input class="form-control" name="bundleWeight" [(ngModel)]="product.bundleWeight">
+        </div>
+      </div>
+
+      <div class="form-group row">
+        <label for="maxWeldsPerMinute" class="col-sm-4 col-form-label">Max Welds Per Minute</label>
+        <div class="col-sm-8">
+          <input class="form-control" name="maxWeldsPerMinute" [(ngModel)]="product.maxWeldsPerMinute">
+        </div>
+      </div>
+
+      <div class="form-group row">
+        <label for="budgetedEficiency" class="col-sm-4 col-form-label">Budgeted Eficiency</label>
+        <div class="col-sm-8">
+          <input class="form-control" name="budgetedEficiency" [(ngModel)]="product.budgetedEficiency">
+        </div>
+      </div>
+
+      <div class="form-group row">
+        <label for="budgetedWeldsPerMinute" class="col-sm-4 col-form-label">Budgeted Welds Per Minute</label>
+        <div class="col-sm-8">
+          <input class="form-control" name="budgetedWeldsPerMinute" [(ngModel)]="product.budgetedWeldsPerMinute">
+        </div>
+      </div>
+  </div>
+
+
+</div>
+
+<div class="card-footer">
+  <button [disabled]="!editForm.dirty" form="editForm" class="btn btn-success btn-block">Save Changes</button>
+</div>
+
+</form>
+</div>

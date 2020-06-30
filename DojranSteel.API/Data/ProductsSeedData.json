@@ -1,0 +1,4010 @@
+[
+      {
+          "SapCode": "535668",
+          "Description": "T410",
+          "ProductionLine": "Schl",
+          "ProductionPerHour": "50.77",
+          "BaseUnitOfMeasure": "PC"
+      },
+      {
+          "SapCode": "533405",
+          "Description": "Q283",
+          "ProductionLine": "Schl",
+          "ProductionPerHour": "32.24",
+          "BaseUnitOfMeasure": "PC"
+      },
+      {
+          "SapCode": "531937",
+          "Description": "T415",
+          "ProductionLine": "Schl",
+          "ProductionPerHour": "89.30",
+          "BaseUnitOfMeasure": "PC"
+      },
+      {
+          "SapCode": "540303",
+          "Description": "Q84",
+          "ProductionLine": "Schl",
+          "ProductionPerHour": "73.20",
+          "BaseUnitOfMeasure": "PC"
+      },
+      {
+          "SapCode": "530743",
+          "Description": "T515A",
+          "ProductionLine": "Schl",
+          "ProductionPerHour": "70.38",
+          "BaseUnitOfMeasure": "PC"
+      },
+      {
+          "SapCode": "524108",
+          "Description": "T515S (Q131)",
+          "ProductionLine": "Schl",
+          "ProductionPerHour": "64.84",
+          "BaseUnitOfMeasure": "PC"
+      },
+      {
+          "SapCode": "547917",
+          "Description": "T515",
+          "ProductionLine": "Schl",
+          "ProductionPerHour": "77.71",
+          "BaseUnitOfMeasure": "PC"
+      },
+      {
+          "SapCode": "530747",
+          "Description": "T615A",
+          "ProductionLine": "Schl",
+          "ProductionPerHour": "62.38",
+          "BaseUnitOfMeasure": "PC"
+      },
+      {
+          "SapCode": "552985",
+          "Description": "T615",
+          "ProductionLine": "Schl",
+          "ProductionPerHour": "73.55",
+          "BaseUnitOfMeasure": "PC"
+      },
+      {
+          "SapCode": "519000",
+          "Description": "T615S (Q188)",
+          "ProductionLine": "Schl",
+          "ProductionPerHour": "57.16",
+          "BaseUnitOfMeasure": "PC"
+      },
+      {
+          "SapCode": "530762",
+          "Description": "T715A",
+          "ProductionLine": "Schl",
+          "ProductionPerHour": "54.72",
+          "BaseUnitOfMeasure": "PC"
+      },
+      {
+          "SapCode": "548532",
+          "Description": "T420-4m",
+          "ProductionLine": "Schl",
+          "ProductionPerHour": "134.58",
+          "BaseUnitOfMeasure": "PC"
+      },
+      {
+          "SapCode": "530745",
+          "Description": "T520A",
+          "ProductionLine": "Schl",
+          "ProductionPerHour": "90.57",
+          "BaseUnitOfMeasure": "PC"
+      },
+      {
+          "SapCode": "517407",
+          "Description": "T520-4m",
+          "ProductionLine": "Schl",
+          "ProductionPerHour": "120.88",
+          "BaseUnitOfMeasure": "PC"
+      },
+      {
+          "SapCode": "530749",
+          "Description": "T620A",
+          "ProductionLine": "Schl",
+          "ProductionPerHour": "78.95",
+          "BaseUnitOfMeasure": "PC"
+      },
+      {
+          "SapCode": "567210",
+          "Description": "T620-6m",
+          "ProductionLine": "Schl",
+          "ProductionPerHour": "78.95",
+          "BaseUnitOfMeasure": "PC"
+      },
+      {
+          "SapCode": "549336",
+          "Description": "T620-4m",
+          "ProductionLine": "Schl",
+          "ProductionPerHour": "108.97",
+          "BaseUnitOfMeasure": "PC"
+      },
+      {
+          "SapCode": "530760",
+          "Description": "T620S (Q141)",
+          "ProductionLine": "Schl",
+          "ProductionPerHour": "72.43",
+          "BaseUnitOfMeasure": "PC"
+      },
+      {
+          "SapCode": "530764",
+          "Description": "T720A",
+          "ProductionLine": "Schl",
+          "ProductionPerHour": "69.57",
+          "BaseUnitOfMeasure": "PC"
+      },
+      {
+          "SapCode": "553035",
+          "Description": "Q503",
+          "ProductionLine": "Smei",
+          "ProductionPerHour": "15.53",
+          "BaseUnitOfMeasure": "PC"
+      },
+      {
+          "SapCode": "589327",
+          "Description": "T810-6m",
+          "ProductionLine": "Smei",
+          "ProductionPerHour": "14.07",
+          "BaseUnitOfMeasure": "PC"
+      },
+      {
+          "SapCode": "519004",
+          "Description": "Q257 (T715S)",
+          "ProductionLine": "Smei",
+          "ProductionPerHour": "31.11",
+          "BaseUnitOfMeasure": "PC"
+      },
+      {
+          "SapCode": "530766",
+          "Description": "T815A",
+          "ProductionLine": "Smei",
+          "ProductionPerHour": "30.81",
+          "BaseUnitOfMeasure": "PC"
+      },
+      {
+          "SapCode": "535317",
+          "Description": "Q295",
+          "ProductionLine": "Smei",
+          "ProductionPerHour": "30.10",
+          "BaseUnitOfMeasure": "PC"
+      },
+      {
+          "SapCode": "519002",
+          "Description": "T815S  (Q335)",
+          "ProductionLine": "Smei",
+          "ProductionPerHour": "29.61",
+          "BaseUnitOfMeasure": "PC"
+      },
+      {
+          "SapCode": "545965",
+          "Description": "T815-6m",
+          "ProductionLine": "Smei",
+          "ProductionPerHour": "27.85",
+          "BaseUnitOfMeasure": "PC"
+      },
+      {
+          "SapCode": "553144",
+          "Description": "T815-4m",
+          "ProductionLine": "Smei",
+          "ProductionPerHour": "41.19",
+          "BaseUnitOfMeasure": "PC"
+      },
+      {
+          "SapCode": "592096",
+          "Description": "T815-2,4x3,3m",
+          "ProductionLine": "Smei",
+          "ProductionPerHour": "48.01",
+          "BaseUnitOfMeasure": "PC"
+      },
+      {
+          "SapCode": "531730",
+          "Description": "T915S (Q424)",
+          "ProductionLine": "Smei",
+          "ProductionPerHour": "23.85",
+          "BaseUnitOfMeasure": "PC"
+      },
+      {
+          "SapCode": "530768",
+          "Description": "T820A",
+          "ProductionLine": "Smei",
+          "ProductionPerHour": "40.57",
+          "BaseUnitOfMeasure": "PC"
+      },
+      {
+          "SapCode": "553147",
+          "Description": "T820-6m",
+          "ProductionLine": "Smei",
+          "ProductionPerHour": "35.32",
+          "BaseUnitOfMeasure": "PC"
+      },
+      {
+          "SapCode": "553109",
+          "Description": "T820-4m",
+          "ProductionLine": "Smei",
+          "ProductionPerHour": "50.52",
+          "BaseUnitOfMeasure": "PC"
+      },
+      {
+          "SapCode": "550020",
+          "Description": "GAL.MESH OVERNET SH.5X10 LIGHT-2.0X5.0",
+          "ProductionLine": "EVG1",
+          "ProductionPerHour": "51.62",
+          "BaseUnitOfMeasure": "PC"
+      },
+      {
+          "SapCode": "502123",
+          "Description": "GAL.MESH OVERNET SH.5X10 D3.5-2.0X5.0M",
+          "ProductionLine": "EVG1",
+          "ProductionPerHour": "51.62",
+          "BaseUnitOfMeasure": "PC"
+      },
+      {
+          "SapCode": "550313",
+          "Description": "GAL.MESH OVERNET SH 5X10 LIGHT -1.5X5M",
+          "ProductionLine": "EVG1",
+          "ProductionPerHour": "53.89",
+          "BaseUnitOfMeasure": "PC"
+      },
+      {
+          "SapCode": "502124",
+          "Description": "GAL.MESH OVERNET SH.5X10 D3.5-1.5X5.0M",
+          "ProductionLine": "EVG1",
+          "ProductionPerHour": "53.89",
+          "BaseUnitOfMeasure": "PC"
+      },
+      {
+          "SapCode": "565007",
+          "Description": "GAL.MESH OVERNET SH.5X10 D2.8/3-2.0X5.",
+          "ProductionLine": "EVG1",
+          "ProductionPerHour": "47.53",
+          "BaseUnitOfMeasure": "PC"
+      },
+      {
+          "SapCode": "585006",
+          "Description": "GAL.MESH OVERNET SH.5X10 D2.8/3-1.5X5.",
+          "ProductionLine": "EVG1",
+          "ProductionPerHour": "49.45",
+          "BaseUnitOfMeasure": "PC"
+      },
+      {
+          "SapCode": "511650",
+          "Description": "GAL.MESH OVERNET SH.5X5 D3.5-2.0X5.0M",
+          "ProductionLine": "EVG1",
+          "ProductionPerHour": "26.03",
+          "BaseUnitOfMeasure": "PC"
+      },
+      {
+          "SapCode": "502126",
+          "Description": "GAL.MESH OVERNET SH.5X5 D3.5-1.5X3.0M",
+          "ProductionLine": "EVG1",
+          "ProductionPerHour": "46.17",
+          "BaseUnitOfMeasure": "PC"
+      },
+      {
+          "SapCode": "513879",
+          "Description": "GAL.MESH OVERNET SH.5X10 D3.5X1.9X4.0M",
+          "ProductionLine": "EVG1",
+          "ProductionPerHour": "55.17",
+          "BaseUnitOfMeasure": "PC"
+      },
+      {
+          "SapCode": "591023",
+          "Description": "GAL.MESH OVERNET SH.5X10 D3.3x1.9X4.0m",
+          "ProductionLine": "EVG1",
+          "ProductionPerHour": "55.17",
+          "BaseUnitOfMeasure": "PC"
+      },
+      {
+          "SapCode": "513878",
+          "Description": "GAL.MESH OVERNET SH.5X5 D3.5-X-1.2X3.0",
+          "ProductionLine": "EVG1",
+          "ProductionPerHour": "45.35",
+          "BaseUnitOfMeasure": "PC"
+      },
+      {
+          "SapCode": "591022",
+          "Description": "GAL.MESH OVERNET SH.5X5 D3.3-X-1.2X3.0m",
+          "ProductionLine": "EVG1",
+          "ProductionPerHour": "45.35",
+          "BaseUnitOfMeasure": "PC"
+      },
+      {
+          "SapCode": "550303",
+          "Description": "GAL.MESH PERINET 6X10 D2.7/2.2-2.00X20",
+          "ProductionLine": "EVG1",
+          "ProductionPerHour": "11.09",
+          "BaseUnitOfMeasure": "PC"
+      },
+      {
+          "SapCode": "550310",
+          "Description": "GAL.MESH PERINET 6X10 D2.4/2.2-2.00X20",
+          "ProductionLine": "EVG1",
+          "ProductionPerHour": "11.09",
+          "BaseUnitOfMeasure": "PC"
+      },
+      {
+          "SapCode": "550302",
+          "Description": "GAL.MESH PERINET 6X10 D2.7/2.2-1.80X20",
+          "ProductionLine": "EVG1",
+          "ProductionPerHour": "11.09",
+          "BaseUnitOfMeasure": "PC"
+      },
+      {
+          "SapCode": "550308",
+          "Description": "GAL.MESH PERINET 6X10 D2.4/2.2-1.80X20",
+          "ProductionLine": "EVG1",
+          "ProductionPerHour": "11.09",
+          "BaseUnitOfMeasure": "PC"
+      },
+      {
+          "SapCode": "550301",
+          "Description": "GAL.MESH PERINET 6X10 D2.7/2.2-1.50X20",
+          "ProductionLine": "EVG1",
+          "ProductionPerHour": "11.09",
+          "BaseUnitOfMeasure": "PC"
+      },
+      {
+          "SapCode": "550306",
+          "Description": "GAL.MESH PERINET 6X10 D2.4/2.2-1.50X20",
+          "ProductionLine": "EVG1",
+          "ProductionPerHour": "11.09",
+          "BaseUnitOfMeasure": "PC"
+      },
+      {
+          "SapCode": "550300",
+          "Description": "GAL.MESH PERINET 6X10 D2.7/2.2-1.20X20",
+          "ProductionLine": "EVG1",
+          "ProductionPerHour": "11.09",
+          "BaseUnitOfMeasure": "PC"
+      },
+      {
+          "SapCode": "550305",
+          "Description": "GAL.MESH PERINET 6X10 D2.4/2.2-1.20X20",
+          "ProductionLine": "EVG1",
+          "ProductionPerHour": "11.09",
+          "BaseUnitOfMeasure": "PC"
+      },
+      {
+          "SapCode": "550299",
+          "Description": "GAL.MESH PERINET 6X10 D2.7/2.2-1.00X20",
+          "ProductionLine": "EVG1",
+          "ProductionPerHour": "11.09",
+          "BaseUnitOfMeasure": "PC"
+      },
+      {
+          "SapCode": "550304",
+          "Description": "GAL.MESH PERINET 6X10 D2.4/2.2-1.00X20",
+          "ProductionLine": "EVG1",
+          "ProductionPerHour": "11.09",
+          "BaseUnitOfMeasure": "PC"
+      },
+      {
+          "SapCode": "585884",
+          "Description": "GAL.MESH PERINET 6X10 D2.4/2.0-1.00X20",
+          "ProductionLine": "EVG1",
+          "ProductionPerHour": "11.09",
+          "BaseUnitOfMeasure": "PC"
+      },
+      {
+          "SapCode": "586212",
+          "Description": "GAL.MESH PERINET 6X10 D2.7/2.0-1.00X20",
+          "ProductionLine": "EVG1",
+          "ProductionPerHour": "11.09",
+          "BaseUnitOfMeasure": "PC"
+      },
+      {
+          "SapCode": "585885",
+          "Description": "GAL.MESH PERINET 6X10 D2.4/2.0-1.20X20",
+          "ProductionLine": "EVG1",
+          "ProductionPerHour": "11.09",
+          "BaseUnitOfMeasure": "PC"
+      },
+      {
+          "SapCode": "586213",
+          "Description": "GAL.MESH PERINET 6X10 D2.7/2.0-1.20X20",
+          "ProductionLine": "EVG1",
+          "ProductionPerHour": "11.09",
+          "BaseUnitOfMeasure": "PC"
+      },
+      {
+          "SapCode": "585886",
+          "Description": "GAL.MESH PERINET 6X10 D2.4/2.0-1.50X20",
+          "ProductionLine": "EVG1",
+          "ProductionPerHour": "11.09",
+          "BaseUnitOfMeasure": "PC"
+      },
+      {
+          "SapCode": "586214",
+          "Description": "GAL.MESH PERINET 6X10 D2.7/2.0-1.50X20",
+          "ProductionLine": "EVG1",
+          "ProductionPerHour": "11.09",
+          "BaseUnitOfMeasure": "PC"
+      },
+      {
+          "SapCode": "585887",
+          "Description": "GAL.MESH PERINET 6X10 D2.4/2.0-1.80X20",
+          "ProductionLine": "EVG1",
+          "ProductionPerHour": "11.09",
+          "BaseUnitOfMeasure": "PC"
+      },
+      {
+          "SapCode": "586215",
+          "Description": "GAL.MESH PERINET 6X10 D2.7/2.0-1.80X20",
+          "ProductionLine": "EVG1",
+          "ProductionPerHour": "11.09",
+          "BaseUnitOfMeasure": "PC"
+      },
+      {
+          "SapCode": "585888",
+          "Description": "GAL.MESH PERINET 6X10 D2.4/2.0-2.00X20",
+          "ProductionLine": "EVG1",
+          "ProductionPerHour": "11.09",
+          "BaseUnitOfMeasure": "PC"
+      },
+      {
+          "SapCode": "586216",
+          "Description": "GAL.MESH PERINET 6X10 D2.7/2.0-2.00X20",
+          "ProductionLine": "EVG1",
+          "ProductionPerHour": "11.09",
+          "BaseUnitOfMeasure": "PC"
+      },
+      {
+          "SapCode": "550303",
+          "Description": "GAL.MESH PERINET 6X10 D2.7/2.2-2.00X20",
+          "ProductionLine": "EVG2",
+          "ProductionPerHour": "16.31",
+          "BaseUnitOfMeasure": "PC"
+      },
+      {
+          "SapCode": "550310",
+          "Description": "GAL.MESH PERINET 6X10 D2.4/2.2-2.00X20",
+          "ProductionLine": "EVG2",
+          "ProductionPerHour": "16.31",
+          "BaseUnitOfMeasure": "PC"
+      },
+      {
+          "SapCode": "550302",
+          "Description": "GAL.MESH PERINET 6X10 D2.7/2.2-1.80X20",
+          "ProductionLine": "EVG2",
+          "ProductionPerHour": "16.31",
+          "BaseUnitOfMeasure": "PC"
+      },
+      {
+          "SapCode": "550308",
+          "Description": "GAL.MESH PERINET 6X10 D2.4/2.2-1.80X20",
+          "ProductionLine": "EVG2",
+          "ProductionPerHour": "16.31",
+          "BaseUnitOfMeasure": "PC"
+      },
+      {
+          "SapCode": "550301",
+          "Description": "GAL.MESH PERINET 6X10 D2.7/2.2-1.50X20",
+          "ProductionLine": "EVG2",
+          "ProductionPerHour": "16.31",
+          "BaseUnitOfMeasure": "PC"
+      },
+      {
+          "SapCode": "550306",
+          "Description": "GAL.MESH PERINET 6X10 D2.4/2.2-1.50X20",
+          "ProductionLine": "EVG2",
+          "ProductionPerHour": "16.31",
+          "BaseUnitOfMeasure": "PC"
+      },
+      {
+          "SapCode": "550300",
+          "Description": "GAL.MESH PERINET 6X10 D2.7/2.2-1.20X20",
+          "ProductionLine": "EVG2",
+          "ProductionPerHour": "16.31",
+          "BaseUnitOfMeasure": "PC"
+      },
+      {
+          "SapCode": "550305",
+          "Description": "GAL.MESH PERINET 6X10 D2.4/2.2-1.20X20",
+          "ProductionLine": "EVG2",
+          "ProductionPerHour": "16.31",
+          "BaseUnitOfMeasure": "PC"
+      },
+      {
+          "SapCode": "550299",
+          "Description": "GAL.MESH PERINET 6X10 D2.7/2.2-1.00X20",
+          "ProductionLine": "EVG2",
+          "ProductionPerHour": "16.31",
+          "BaseUnitOfMeasure": "PC"
+      },
+      {
+          "SapCode": "550304",
+          "Description": "GAL.MESH PERINET 6X10 D2.4/2.2-1.00X20",
+          "ProductionLine": "EVG2",
+          "ProductionPerHour": "16.31",
+          "BaseUnitOfMeasure": "PC"
+      },
+      {
+          "SapCode": "585884",
+          "Description": "GAL.MESH PERINET 6X10 D2.4/2.0-1.00X20",
+          "ProductionLine": "EVG2",
+          "ProductionPerHour": "16.31",
+          "BaseUnitOfMeasure": "PC"
+      },
+      {
+          "SapCode": "586212",
+          "Description": "GAL.MESH PERINET 6X10 D2.7/2.0-1.00X20",
+          "ProductionLine": "EVG2",
+          "ProductionPerHour": "16.31",
+          "BaseUnitOfMeasure": "PC"
+      },
+      {
+          "SapCode": "585885",
+          "Description": "GAL.MESH PERINET 6X10 D2.4/2.0-1.20X20",
+          "ProductionLine": "EVG2",
+          "ProductionPerHour": "16.31",
+          "BaseUnitOfMeasure": "PC"
+      },
+      {
+          "SapCode": "586213",
+          "Description": "GAL.MESH PERINET 6X10 D2.7/2.0-1.20X20",
+          "ProductionLine": "EVG2",
+          "ProductionPerHour": "16.31",
+          "BaseUnitOfMeasure": "PC"
+      },
+      {
+          "SapCode": "585886",
+          "Description": "GAL.MESH PERINET 6X10 D2.4/2.0-1.50X20",
+          "ProductionLine": "EVG2",
+          "ProductionPerHour": "16.31",
+          "BaseUnitOfMeasure": "PC"
+      },
+      {
+          "SapCode": "586214",
+          "Description": "GAL.MESH PERINET 6X10 D2.7/2.0-1.50X20",
+          "ProductionLine": "EVG2",
+          "ProductionPerHour": "16.31",
+          "BaseUnitOfMeasure": "PC"
+      },
+      {
+          "SapCode": "585887",
+          "Description": "GAL.MESH PERINET 6X10 D2.4/2.0-1.80X20",
+          "ProductionLine": "EVG2",
+          "ProductionPerHour": "16.31",
+          "BaseUnitOfMeasure": "PC"
+      },
+      {
+          "SapCode": "586215",
+          "Description": "GAL.MESH PERINET 6X10 D2.7/2.0-1.80X20",
+          "ProductionLine": "EVG2",
+          "ProductionPerHour": "16.31",
+          "BaseUnitOfMeasure": "PC"
+      },
+      {
+          "SapCode": "585888",
+          "Description": "GAL.MESH PERINET 6X10 D2.4/2.0-2.00X20",
+          "ProductionLine": "EVG2",
+          "ProductionPerHour": "16.31",
+          "BaseUnitOfMeasure": "PC"
+      },
+      {
+          "SapCode": "586216",
+          "Description": "GAL.MESH PERINET 6X10 D2.7/2.0-2.00X20",
+          "ProductionLine": "EVG2",
+          "ProductionPerHour": "16.31",
+          "BaseUnitOfMeasure": "PC"
+      },
+      {
+          "SapCode": "502186",
+          "Description": "GAL.MESH PERINET 6X10 D1.8/2.2-2.00X25",
+          "ProductionLine": "EVG2",
+          "ProductionPerHour": "11.52",
+          "BaseUnitOfMeasure": "PC"
+      },
+      {
+          "SapCode": "502185",
+          "Description": "GAL.MESH PERINET 6X10 D1.8/2.2-1.80X25",
+          "ProductionLine": "EVG2",
+          "ProductionPerHour": "11.52",
+          "BaseUnitOfMeasure": "PC"
+      },
+      {
+          "SapCode": "502184",
+          "Description": "GAL.MESH PERINET 6X10 D1.8/2.2-1.50X25",
+          "ProductionLine": "EVG2",
+          "ProductionPerHour": "11.52",
+          "BaseUnitOfMeasure": "PC"
+      },
+      {
+          "SapCode": "502182",
+          "Description": "GAL.MESH PERINET 6X10 D1.8/2.2-1.20X25",
+          "ProductionLine": "EVG2",
+          "ProductionPerHour": "11.52",
+          "BaseUnitOfMeasure": "PC"
+      },
+      {
+          "SapCode": "502181",
+          "Description": "GAL.MESH PERINET 6X10 D1.8/2.2-1.00X25",
+          "ProductionLine": "EVG2",
+          "ProductionPerHour": "11.52",
+          "BaseUnitOfMeasure": "PC"
+      },
+      {
+          "SapCode": "502138",
+          "Description": "GAL.MESH PERINET 5X5 D1.8-2.00X25M",
+          "ProductionLine": "EVG2",
+          "ProductionPerHour": "9.59",
+          "BaseUnitOfMeasure": "PC"
+      },
+      {
+          "SapCode": "502137",
+          "Description": "GAL.MESH PERINET 5X5 D1.8-1.80X25M",
+          "ProductionLine": "EVG2",
+          "ProductionPerHour": "9.59",
+          "BaseUnitOfMeasure": "PC"
+      },
+      {
+          "SapCode": "502136",
+          "Description": "GAL.MESH PERINET 5X5 D1.8-1.50X25M",
+          "ProductionLine": "EVG2",
+          "ProductionPerHour": "9.59",
+          "BaseUnitOfMeasure": "PC"
+      },
+      {
+          "SapCode": "502134",
+          "Description": "GAL.MESH PERINET 5X5 D1.8-1.20X25M",
+          "ProductionLine": "EVG2",
+          "ProductionPerHour": "9.59",
+          "BaseUnitOfMeasure": "PC"
+      },
+      {
+          "SapCode": "502133",
+          "Description": "GAL.MESH PERINET 5X5 D1.8-1.00X25M",
+          "ProductionLine": "EVG2",
+          "ProductionPerHour": "9.59",
+          "BaseUnitOfMeasure": "PC"
+      },
+      {
+          "SapCode": "586015",
+          "Description": "G.MESH PERINET 25X67 (2.4/1.7) 237X110",
+          "ProductionLine": "EVG2",
+          "ProductionPerHour": "3.06",
+          "BaseUnitOfMeasure": "PC"
+      },
+      {
+          "SapCode": "586017",
+          "Description": "G.MESH PERINET 25X67 (2.8/2.1) 237X110",
+          "ProductionLine": "EVG2",
+          "ProductionPerHour": "3.06",
+          "BaseUnitOfMeasure": "PC"
+      },
+      {
+          "SapCode": "585010",
+          "Description": "G.MESH PERINET 67X25 2/2.5 0.25X125M",
+          "ProductionLine": "EVG2",
+          "ProductionPerHour": "3.06",
+          "BaseUnitOfMeasure": "PC"
+      },
+      {
+          "SapCode": "590125",
+          "Description": "G.MESH PERINET 25X67 (2.3/1.7) 177X110m",
+          "ProductionLine": "EVG2",
+          "ProductionPerHour": "5.22",
+          "BaseUnitOfMeasure": "PC"
+      },
+      {
+          "SapCode": "590268",
+          "Description": "G.MESH PERINET 25X67 (2.2/1.7) 177X135m",
+          "ProductionLine": "EVG2",
+          "ProductionPerHour": "4.66",
+          "BaseUnitOfMeasure": "PC"
+      },
+      {
+          "SapCode": "591901",
+          "Description": "G.MESH PERINET 25X67 (3.0/2.1) 229X110m",
+          "ProductionLine": "EVG2",
+          "ProductionPerHour": "5.22",
+          "BaseUnitOfMeasure": "PC"
+      },
+      {
+          "SapCode": "592105",
+          "Description": "G.MESH PERINET 25X67 (2.3/1.7) 229X110m",
+          "ProductionLine": "EVG2",
+          "ProductionPerHour": "5.22",
+          "BaseUnitOfMeasure": "PC"
+      },
+      {
+          "SapCode": "592106",
+          "Description": "G.MESH PERINET 25X67 (2.5/1.8) 229X110m",
+          "ProductionLine": "EVG2",
+          "ProductionPerHour": "5.22",
+          "BaseUnitOfMeasure": "PC"
+      },
+      {
+          "SapCode": "500089",
+          "Description": "WIRE COPPER COATED CO2 D0.80",
+          "ProductionLine": "Liq",
+          "ProductionPerHour": "0.051",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "500090",
+          "Description": "WIRE COPPER COATED CO2 D1.00",
+          "ProductionLine": "Liq",
+          "ProductionPerHour": "0.079",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "500091",
+          "Description": "WIRE COPPER COATED CO2 D1.20",
+          "ProductionLine": "Liq",
+          "ProductionPerHour": "0.118",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "534108",
+          "Description": "WIRE COPPER COATED SG3 D0.80",
+          "ProductionLine": "Liq",
+          "ProductionPerHour": "0.051",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "534109",
+          "Description": "WIRE COPPER COATED SG3 D1.00",
+          "ProductionLine": "Liq",
+          "ProductionPerHour": "0.079",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "533520",
+          "Description": "WIRE COPPER COATED SG3 D1.20",
+          "ProductionLine": "Liq",
+          "ProductionPerHour": "0.118",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "503813",
+          "Description": "WIRE BASE-WELDING D0.80",
+          "ProductionLine": "Spool",
+          "ProductionPerHour": "5.04",
+          "BaseUnitOfMeasure": "PC"
+      },
+      {
+          "SapCode": "503814",
+          "Description": "WIRE BASE-WELDING D1.00",
+          "ProductionLine": "Spool",
+          "ProductionPerHour": "6.78",
+          "BaseUnitOfMeasure": "PC"
+      },
+      {
+          "SapCode": "503816",
+          "Description": "WIRE BASE-WELDING D1.20",
+          "ProductionLine": "Spool",
+          "ProductionPerHour": "7.56",
+          "BaseUnitOfMeasure": "PC"
+      },
+      {
+          "SapCode": "512270",
+          "Description": "WIRE BASE-WELDING D1.60",
+          "ProductionLine": "Spool",
+          "ProductionPerHour": "8.45",
+          "BaseUnitOfMeasure": "PC"
+      },
+      {
+          "SapCode": "505172",
+          "Description": "WIRE BASE-WELDING PLW D0.80",
+          "ProductionLine": "Spool",
+          "ProductionPerHour": "5.04",
+          "BaseUnitOfMeasure": "PC"
+      },
+      {
+          "SapCode": "505173",
+          "Description": "WIRE BASE-WELDING PLW D1.00",
+          "ProductionLine": "Spool",
+          "ProductionPerHour": "6.78",
+          "BaseUnitOfMeasure": "PC"
+      },
+      {
+          "SapCode": "505174",
+          "Description": "WIRE BASE-WELDING PLW D1.20",
+          "ProductionLine": "Spool",
+          "ProductionPerHour": "7.56",
+          "BaseUnitOfMeasure": "PC"
+      },
+      {
+          "SapCode": "510800",
+          "Description": "WIRE BASE-WELDING PLW D1.60",
+          "ProductionLine": "Spool",
+          "ProductionPerHour": "8.45",
+          "BaseUnitOfMeasure": "PC"
+      },
+      {
+          "SapCode": "572610",
+          "Description": "WIRE CARBOFIL 1 A PLW D1.00",
+          "ProductionLine": "Spool",
+          "ProductionPerHour": "6.70",
+          "BaseUnitOfMeasure": "PC"
+      },
+      {
+          "SapCode": "502419",
+          "Description": "WIRE CARBOFIL 1 OERL. D0.80",
+          "ProductionLine": "Spool",
+          "ProductionPerHour": "4.96",
+          "BaseUnitOfMeasure": "PC"
+      },
+      {
+          "SapCode": "536257",
+          "Description": "WIRE CARBOFIL 1 OERL. D0.80 (5Kg)",
+          "ProductionLine": "Spool",
+          "ProductionPerHour": "6.26",
+          "BaseUnitOfMeasure": "PC"
+      },
+      {
+          "SapCode": "502420",
+          "Description": "WIRE CARBOFIL 1 OERL. D1.00",
+          "ProductionLine": "Spool",
+          "ProductionPerHour": "6.70",
+          "BaseUnitOfMeasure": "PC"
+      },
+      {
+          "SapCode": "546466",
+          "Description": "WIRE CARBOFIL 1 OERL. D1.00 (5Kg)",
+          "ProductionLine": "Spool",
+          "ProductionPerHour": "7.88",
+          "BaseUnitOfMeasure": "PC"
+      },
+      {
+          "SapCode": "502421",
+          "Description": "WIRE CARBOFIL 1 OERL. D1.20",
+          "ProductionLine": "Spool",
+          "ProductionPerHour": "7.49",
+          "BaseUnitOfMeasure": "PC"
+      },
+      {
+          "SapCode": "502422",
+          "Description": "WIRE CARBOFIL 1 OERL. D1.60",
+          "ProductionLine": "Spool",
+          "ProductionPerHour": "8.41",
+          "BaseUnitOfMeasure": "PC"
+      },
+      {
+          "SapCode": "502423",
+          "Description": "WIRE CARBOFIL 1 OERL. PLW D0.80",
+          "ProductionLine": "Spool",
+          "ProductionPerHour": "4.96",
+          "BaseUnitOfMeasure": "PC"
+      },
+      {
+          "SapCode": "502424",
+          "Description": "WIRE CARBOFIL 1 OERL. PLW D1.00",
+          "ProductionLine": "Spool",
+          "ProductionPerHour": "6.70",
+          "BaseUnitOfMeasure": "PC"
+      },
+      {
+          "SapCode": "502425",
+          "Description": "WIRE CARBOFIL 1 OERL. PLW D1.20",
+          "ProductionLine": "Spool",
+          "ProductionPerHour": "7.49",
+          "BaseUnitOfMeasure": "PC"
+      },
+      {
+          "SapCode": "502426",
+          "Description": "WIRE CARBOFIL 1 OERL. PLW D1.60",
+          "ProductionLine": "Spool",
+          "ProductionPerHour": "8.41",
+          "BaseUnitOfMeasure": "PC"
+      },
+      {
+          "SapCode": "534597",
+          "Description": "WIRE CARBOFIL 1 OERL. PLW ECO D1.00",
+          "ProductionLine": "Spool",
+          "ProductionPerHour": "6.70",
+          "BaseUnitOfMeasure": "PC"
+      },
+      {
+          "SapCode": "534351",
+          "Description": "WIRE CARBOFIL 1 OERL. PLW ECO D1.20",
+          "ProductionLine": "Spool",
+          "ProductionPerHour": "7.49",
+          "BaseUnitOfMeasure": "PC"
+      },
+      {
+          "SapCode": "533509",
+          "Description": "WIRE CARBOFIL 1A. PLW D1.20",
+          "ProductionLine": "Spool",
+          "ProductionPerHour": "7.49",
+          "BaseUnitOfMeasure": "PC"
+      },
+      {
+          "SapCode": "502447",
+          "Description": "WIRE ITALTEL D0.80",
+          "ProductionLine": "Spool",
+          "ProductionPerHour": "5.04",
+          "BaseUnitOfMeasure": "PC"
+      },
+      {
+          "SapCode": "502448",
+          "Description": "WIRE ITALTEL D1.00",
+          "ProductionLine": "Spool",
+          "ProductionPerHour": "6.78",
+          "BaseUnitOfMeasure": "PC"
+      },
+      {
+          "SapCode": "502449",
+          "Description": "WIRE ITALTEL D1.20",
+          "ProductionLine": "Spool",
+          "ProductionPerHour": "7.56",
+          "BaseUnitOfMeasure": "PC"
+      },
+      {
+          "SapCode": "536476",
+          "Description": "WIRE ITALTEL SP D0.80",
+          "ProductionLine": "Spool",
+          "ProductionPerHour": "5.04",
+          "BaseUnitOfMeasure": "PC"
+      },
+      {
+          "SapCode": "536477",
+          "Description": "WIRE ITALTEL SP D1.00",
+          "ProductionLine": "Spool",
+          "ProductionPerHour": "6.78",
+          "BaseUnitOfMeasure": "PC"
+      },
+      {
+          "SapCode": "536478",
+          "Description": "WIRE ITALTEL SP D1.20",
+          "ProductionLine": "Spool",
+          "ProductionPerHour": "7.56",
+          "BaseUnitOfMeasure": "PC"
+      },
+      {
+          "SapCode": "528997",
+          "Description": "WIRE LARCO SG-2 D0.80",
+          "ProductionLine": "Spool",
+          "ProductionPerHour": "5.04",
+          "BaseUnitOfMeasure": "PC"
+      },
+      {
+          "SapCode": "528995",
+          "Description": "WIRE LARCO SG-2 D1.00",
+          "ProductionLine": "Spool",
+          "ProductionPerHour": "6.78",
+          "BaseUnitOfMeasure": "PC"
+      },
+      {
+          "SapCode": "528996",
+          "Description": "WIRE LARCO SG-2 D1.20",
+          "ProductionLine": "Spool",
+          "ProductionPerHour": "7.56",
+          "BaseUnitOfMeasure": "PC"
+      },
+      {
+          "SapCode": "528999",
+          "Description": "WIRE LARCO SG-2 SP D0.80",
+          "ProductionLine": "Spool",
+          "ProductionPerHour": "5.04",
+          "BaseUnitOfMeasure": "PC"
+      },
+      {
+          "SapCode": "529010",
+          "Description": "WIRE LARCO SG-2 SP D1.00",
+          "ProductionLine": "Spool",
+          "ProductionPerHour": "6.78",
+          "BaseUnitOfMeasure": "PC"
+      },
+      {
+          "SapCode": "529011",
+          "Description": "WIRE LARCO SG-2 SP D1.20",
+          "ProductionLine": "Spool",
+          "ProductionPerHour": "7.56",
+          "BaseUnitOfMeasure": "PC"
+      },
+      {
+          "SapCode": "572597",
+          "Description": "WIRE SG-2 PLW/E D0.80",
+          "ProductionLine": "Spool",
+          "ProductionPerHour": "4.96",
+          "BaseUnitOfMeasure": "PC"
+      },
+      {
+          "SapCode": "572596",
+          "Description": "WIRE SG-2 PLW/E D1.00",
+          "ProductionLine": "Spool",
+          "ProductionPerHour": "6.70",
+          "BaseUnitOfMeasure": "PC"
+      },
+      {
+          "SapCode": "572598",
+          "Description": "WIRE SG-2 PLW/E D1.20",
+          "ProductionLine": "Spool",
+          "ProductionPerHour": "7.49",
+          "BaseUnitOfMeasure": "PC"
+      },
+      {
+          "SapCode": "572599",
+          "Description": "WIRE SG-2 PLW/E D1.60",
+          "ProductionLine": "Spool",
+          "ProductionPerHour": "8.41",
+          "BaseUnitOfMeasure": "PC"
+      },
+      {
+          "SapCode": "502434",
+          "Description": "WIRE SG-2/E D0.80",
+          "ProductionLine": "Spool",
+          "ProductionPerHour": "4.96",
+          "BaseUnitOfMeasure": "PC"
+      },
+      {
+          "SapCode": "502431",
+          "Description": "WIRE SG-2/E D1.00",
+          "ProductionLine": "Spool",
+          "ProductionPerHour": "6.70",
+          "BaseUnitOfMeasure": "PC"
+      },
+      {
+          "SapCode": "502432",
+          "Description": "WIRE SG-2/E D1.20",
+          "ProductionLine": "Spool",
+          "ProductionPerHour": "7.49",
+          "BaseUnitOfMeasure": "PC"
+      },
+      {
+          "SapCode": "502433",
+          "Description": "WIRE SG-2/E D1.60",
+          "ProductionLine": "Spool",
+          "ProductionPerHour": "8.41",
+          "BaseUnitOfMeasure": "PC"
+      },
+      {
+          "SapCode": "512956",
+          "Description": "WIRE SIDEFIL 1 D0.80",
+          "ProductionLine": "Spool",
+          "ProductionPerHour": "4.96",
+          "BaseUnitOfMeasure": "PC"
+      },
+      {
+          "SapCode": "536451",
+          "Description": "WIRE SIDEFIL 1 D0.80 (5Kg)",
+          "ProductionLine": "Spool",
+          "ProductionPerHour": "6.26",
+          "BaseUnitOfMeasure": "PC"
+      },
+      {
+          "SapCode": "512957",
+          "Description": "WIRE SIDEFIL 1 D1.00",
+          "ProductionLine": "Spool",
+          "ProductionPerHour": "6.70",
+          "BaseUnitOfMeasure": "PC"
+      },
+      {
+          "SapCode": "584972",
+          "Description": "WIRE SIDEFIL 1 D1.00 (5Kg)",
+          "ProductionLine": "Spool",
+          "ProductionPerHour": "7.88",
+          "BaseUnitOfMeasure": "PC"
+      },
+      {
+          "SapCode": "512958",
+          "Description": "WIRE SIDEFIL 1 D1.20",
+          "ProductionLine": "Spool",
+          "ProductionPerHour": "7.49",
+          "BaseUnitOfMeasure": "PC"
+      },
+      {
+          "SapCode": "512960",
+          "Description": "WIRE SIDEFIL 1 PLW D0.80",
+          "ProductionLine": "Spool",
+          "ProductionPerHour": "4.96",
+          "BaseUnitOfMeasure": "PC"
+      },
+      {
+          "SapCode": "512961",
+          "Description": "WIRE SIDEFIL 1 PLW D1.00",
+          "ProductionLine": "Spool",
+          "ProductionPerHour": "6.70",
+          "BaseUnitOfMeasure": "PC"
+      },
+      {
+          "SapCode": "512962",
+          "Description": "WIRE SIDEFIL 1 PLW D1.20",
+          "ProductionLine": "Spool",
+          "ProductionPerHour": "7.49",
+          "BaseUnitOfMeasure": "PC"
+      },
+      {
+          "SapCode": "582003",
+          "Description": "WIRE SIDEFIL 1 PLW D1.20 1A",
+          "ProductionLine": "Spool",
+          "ProductionPerHour": "7.49",
+          "BaseUnitOfMeasure": "PC"
+      },
+      {
+          "SapCode": "555606",
+          "Description": "WIRE SIDEFIL 1A PLW D0,80",
+          "ProductionLine": "Spool",
+          "ProductionPerHour": "4.96",
+          "BaseUnitOfMeasure": "PC"
+      },
+      {
+          "SapCode": "534117",
+          "Description": "WIRE SIDEFIL 1A PLW D1.00",
+          "ProductionLine": "Spool",
+          "ProductionPerHour": "6.70",
+          "BaseUnitOfMeasure": "PC"
+      },
+      {
+          "SapCode": "530993",
+          "Description": "WIRE WURTH SG2-CO2 PLW D0.80",
+          "ProductionLine": "Spool",
+          "ProductionPerHour": "4.86",
+          "BaseUnitOfMeasure": "PC"
+      },
+      {
+          "SapCode": "530994",
+          "Description": "WIRE WURTH SG2-CO2 PLW D1.00",
+          "ProductionLine": "Spool",
+          "ProductionPerHour": "6.60",
+          "BaseUnitOfMeasure": "PC"
+      },
+      {
+          "SapCode": "530995",
+          "Description": "WIRE WURTH SG2-CO2 PLW D1.20",
+          "ProductionLine": "Spool",
+          "ProductionPerHour": "7.41",
+          "BaseUnitOfMeasure": "PC"
+      },
+      {
+          "SapCode": "583188",
+          "Description": "EQ.ANGLE S235JR 020X03 06.00m UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "11.75821157",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "584551",
+          "Description": "EQ.ANGLE S235JR 020X03 2nd Ch. UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "11.75821157",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "583747",
+          "Description": "EQ.ANGLE S235JR 020X2.5 06.00mUNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "8.136024652",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "584607",
+          "Description": "EQ.ANGLE S235JR 020X2.5 2nd Ch. UNBUNDLE",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "8.136024652",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "583497",
+          "Description": "EQ.ANGLE S235JR 025X03 06.00m UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.23416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "584552",
+          "Description": "EQ.ANGLE S235JR 025X03 2nd Ch. UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.23416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "583782",
+          "Description": "EQ.ANGLE S235JR 025X2.5 06.00mUNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "9.734692009",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "584608",
+          "Description": "EQ.ANGLE S235JR 025X2.5 2nd Ch. UNBUNDLE",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "9.734692009",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "583668",
+          "Description": "EQ.ANGLE S235JR 030X03 04.70m UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "12.33600053",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "583124",
+          "Description": "EQ.ANGLE S235JR 030X03 06.00m UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.23416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "584553",
+          "Description": "EQ.ANGLE S235JR 030X03 2nd Ch. UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.23416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "583498",
+          "Description": "EQ.ANGLE S235JR 030X04 06.00m UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.23416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "584556",
+          "Description": "EQ.ANGLE S235JR 030X04 2nd Ch. UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.23416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "584584",
+          "Description": "EQ.ANGLE S235JR 030x2,5 2nd Ch UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "10.00357099",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "584878",
+          "Description": "EQ.ANGLE S235JR 030X2.5 05.50mUNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "9.173399121",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "583700",
+          "Description": "EQ.ANGLE S235JR 030X2.5 06.00mUNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "10.00357099",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "584597",
+          "Description": "EQ.ANGLE S235JR 035X02,5 2nd Ch. UNBUNDL",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "11.7055908",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "583499",
+          "Description": "EQ.ANGLE S235JR 035X03 06.00m UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.23416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "584554",
+          "Description": "EQ.ANGLE S235JR 035X03 2nd Ch. UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.23416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "583500",
+          "Description": "EQ.ANGLE S235JR 035X04 06.00m UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.23416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "584573",
+          "Description": "EQ.ANGLE S235JR 035X04 2nd Ch. UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.23416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "583669",
+          "Description": "EQ.ANGLE S235JR 035X2.5 06.00mUNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "11.7193459",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "583735",
+          "Description": "EQ.ANGLE S235JR 035X3.5 06.00mUNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.25",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "584606",
+          "Description": "EQ.ANGLE S235JR 035X3.5 2nd Ch. UNBUNDLE",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.25",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "583501",
+          "Description": "EQ.ANGLE S235JR 040X03 06.00m UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.61416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "584555",
+          "Description": "EQ.ANGLE S235JR 040X03 2nd Ch. UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.61416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "583508",
+          "Description": "EQ.ANGLE S235JR 040X04 06.00m UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.61416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "583590",
+          "Description": "EQ.ANGLE S235JR 040X04 12.00m UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.61416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "584575",
+          "Description": "EQ.ANGLE S235JR 040X04 2nd Ch. UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.61416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "583509",
+          "Description": "EQ.ANGLE S235JR 040X05 06.00m UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.61416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "583533",
+          "Description": "EQ.ANGLE S235JR 040X2.5 06.00mUNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "10.27385629",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "584604",
+          "Description": "EQ.ANGLE S235JR 040X2.5 2nd Ch. UNBUNDLE",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "10.27385629",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "583554",
+          "Description": "EQ.ANGLE S235JR 040X3.5 06.00mUNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "13.49",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "584605",
+          "Description": "EQ.ANGLE S235JR 040X3.5 2nd Ch. UNBUNDLE",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.63",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "583510",
+          "Description": "EQ.ANGLE S235JR 045X04 06.00m UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.61416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "583511",
+          "Description": "EQ.ANGLE S235JR 045X05 06.00m UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.61416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "583513",
+          "Description": "EQ.ANGLE S235JR 050X03 06.00m UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.23416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "584585",
+          "Description": "EQ.ANGLE S235JR 050x03 2nd Ch. UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.23416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "583514",
+          "Description": "EQ.ANGLE S235JR 050X04 06.00mUNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.61416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "584246",
+          "Description": "EQ.ANGLE S235JR 050X04 12.00mUNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.61416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "584580",
+          "Description": "EQ.ANGLE S235JR 050X04 2nd Ch. UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.61416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "583515",
+          "Description": "EQ.ANGLE S235JR 050X05 06.00mUNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.61416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "583817",
+          "Description": "EQ.ANGLE S235JR 050X05 12.00mUNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.61416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "584576",
+          "Description": "EQ.ANGLE S235JR 050X05 2nd Ch. UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.61416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "583516",
+          "Description": "EQ.ANGLE S235JR 050X06 06.00m UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.99416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "584165",
+          "Description": "EQ.ANGLE S235JR 050X06 12.00mUNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.99416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "584577",
+          "Description": "EQ.ANGLE S235JR 050X06 2nd Ch. UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.99416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "584108",
+          "Description": "EQ.ANGLE S235JR 050X4.5 06.00mUNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.63",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "584776",
+          "Description": "FLAT S235JR 020X05 04.00m UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "13.02744187",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "584774",
+          "Description": "FLAT S235JR 020X05 06.00m UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "13.02744187",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "584775",
+          "Description": "FLAT S235JR 020X05 2nd Ch. UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "0",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "584793",
+          "Description": "FLAT S235JR 020X06 06.00m UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "15.37416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "584790",
+          "Description": "FLAT S235JR 020X06 2nd Ch. UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "0",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "584794",
+          "Description": "FLAT S235JR 020X08 06.00m UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "15.37416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "584791",
+          "Description": "FLAT S235JR 020X08 2nd Ch. UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "0",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "584795",
+          "Description": "FLAT S235JR 020X10 06.00m UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "15.37416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "584792",
+          "Description": "FLAT S235JR 020X10 2nd Ch. UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "0",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "584747",
+          "Description": "FLAT S235JR 025X04 04.00m UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "10.1943321",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "584749",
+          "Description": "FLAT S235JR 025X04 2nd Ch. UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "0",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "584748",
+          "Description": "FLAT S235JR 025X05 06.00m UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "15.37416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "584750",
+          "Description": "FLAT S235JR 025X05 2nd Ch. UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "0",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "584803",
+          "Description": "FLAT S235JR 025X08 06.00m UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "15.37416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "584800",
+          "Description": "FLAT S235JR 025X08 2nd Ch. UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "0",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "584804",
+          "Description": "FLAT S235JR 025X10 06.00m UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "15.37416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "584802",
+          "Description": "FLAT S235JR 025X10 2nd Ch. UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "0",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "584630",
+          "Description": "FLAT S235JR 030X03 04.00m UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "7.87601749",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "584609",
+          "Description": "FLAT S235JR 030X03 06.00m UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "8.438590168",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "584610",
+          "Description": "FLAT S235JR 030X03 2nd Ch. UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "0",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "584654",
+          "Description": "FLAT S235JR 030X04 04.00m UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "10.82809126",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "584653",
+          "Description": "FLAT S235JR 030X04 06.00m UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "11.60152635",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "584652",
+          "Description": "FLAT S235JR 030X04 2nd Ch. UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "0",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "584586",
+          "Description": "FLAT S235JR 030X05 06.00m UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "15.37416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "559131",
+          "Description": "FLAT S235JR 030X05 2nd Ch. UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "0",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "584632",
+          "Description": "FLAT S235JR 030X06 06.00m UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "15.37416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "584634",
+          "Description": "FLAT S235JR 030X06 2nd Ch. UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "0",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "584659",
+          "Description": "FLAT S235JR 030X08 06.00m UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "15.37416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "584657",
+          "Description": "FLAT S235JR 030X08 2nd Ch. UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "0",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "584660",
+          "Description": "FLAT S235JR 030X10 06.00m UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "15.37416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "584658",
+          "Description": "FLAT S235JR 030X10 2nd Ch. UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "0",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "584667",
+          "Description": "FLAT S235JR 040X03 04.00m UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "7.961831807",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "583204",
+          "Description": "FLAT S235JR 040X03 06.00m UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "8.530534078",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "584598",
+          "Description": "FLAT S235JR 040X03 2nd Ch. UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "0",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "584668",
+          "Description": "FLAT S235JR 040X03 2nd Ch. UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "0",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "584693",
+          "Description": "FLAT S235JR 040X04 04.00m UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "11.04961478",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "583199",
+          "Description": "FLAT S235JR 040X04 06.00m UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "11.83887298",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "584581",
+          "Description": "FLAT S235JR 040X04 2nd Ch. UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "0",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "584694",
+          "Description": "FLAT S235JR 040X04 2nd Ch. UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "0",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "583194",
+          "Description": "FLAT S235JR 040X05 06.00m UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "15.37416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "584522",
+          "Description": "FLAT S235JR 040X05 2nd Ch. UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "0",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "583141",
+          "Description": "FLAT S235JR 040X06 06.00m UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "15.37416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "584523",
+          "Description": "FLAT S235JR 040X06 2nd Ch. UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "0",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "583120",
+          "Description": "FLAT S235JR 040X08 06.00m UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "15.37416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "584524",
+          "Description": "FLAT S235JR 040X08 2nd Ch. UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "0",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "583121",
+          "Description": "FLAT S235JR 040X10 06.00m UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "15.37416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "584525",
+          "Description": "FLAT S235JR 040X10 2nd Ch. UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "0",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "583212",
+          "Description": "FLAT S235JR 050X03 06.00m UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "9.018165172",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "584600",
+          "Description": "FLAT S235JR 050X03 2nd Ch. UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "0",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "584727",
+          "Description": "FLAT S235JR 050X04 04.00m UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "11.66956192",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "583244",
+          "Description": "FLAT S235JR 050X04 06.00m UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "12.50310206",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "584601",
+          "Description": "FLAT S235JR 050X04 2nd Ch. UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "0",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "583247",
+          "Description": "FLAT S235JR 050X05 06.00m UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "15.37416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "584526",
+          "Description": "FLAT S235JR 050X05 2nd Ch. UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "0",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "583260",
+          "Description": "FLAT S235JR 050X06 06.00m UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "15.37416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "584527",
+          "Description": "FLAT S235JR 050X06 2nd Ch. UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "0",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "583262",
+          "Description": "FLAT S235JR 050X08 06.00m UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "15.37416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "584528",
+          "Description": "FLAT S235JR 050X08 2nd Ch. UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "0",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "583263",
+          "Description": "FLAT S235JR 050X10 06.00m UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "15.37416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "584530",
+          "Description": "FLAT S235JR 050X10 2nd Ch. UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "0",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "583276",
+          "Description": "FLAT S235JR 050X12 06.00m UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "15.37416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "584529",
+          "Description": "FLAT S235JR 050X12 2nd Ch. UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "0",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "583277",
+          "Description": "FLAT S235JR 060X04 06.00m UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "12.24298836",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "584602",
+          "Description": "FLAT S235JR 060X04 2nd Ch. UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "0",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "583297",
+          "Description": "FLAT S235JR 060X05 06.00m UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "15.37416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "583294",
+          "Description": "FLAT S235JR 060X06 06.00m UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "15.37416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "584531",
+          "Description": "FLAT S235JR 060X06 2nd Ch. UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "0",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "583304",
+          "Description": "FLAT S235JR 060X08 06.00m UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "15.37416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "584532",
+          "Description": "FLAT S235JR 060X08 2nd Ch. UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "0",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "584491",
+          "Description": "FLAT S235JR 060X10 05.00m UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "15.37416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "583303",
+          "Description": "FLAT S235JR 060X10 06.00m UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "15.37416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "583393",
+          "Description": "FLAT S235JR 060X12 06.00m UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "15.37416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "584533",
+          "Description": "FLAT S235JR 060X12 2nd Ch. UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "0",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "583477",
+          "Description": "FLAT S235JR 060X15 06.00m UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "15.37416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "584599",
+          "Description": "FLAT S235JR 060X15 2nd Ch. UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "0",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "583478",
+          "Description": "FLAT S235JR 060X20 06.00m UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "583479",
+          "Description": "FLAT S235JR 060X25 06.00m UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "583394",
+          "Description": "FLAT S235JR 070X05 06.00m UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "15.37416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "583395",
+          "Description": "FLAT S235JR 070X06 06.00m UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "15.37416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "584535",
+          "Description": "FLAT S235JR 070X06 2nd Ch. UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "0",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "583398",
+          "Description": "FLAT S235JR 070X08 06.00m UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "15.37416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "584536",
+          "Description": "FLAT S235JR 070X08 2nd Ch. UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "0",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "583402",
+          "Description": "FLAT S235JR 070X10 06.00m UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "15.37416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "583403",
+          "Description": "FLAT S235JR 070X12 06.00m UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "15.37416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "584578",
+          "Description": "FLAT S235JR 070X12 2nd Ch. UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "0",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "583404",
+          "Description": "FLAT S235JR 070X15 06.00m UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "15.37416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "583413",
+          "Description": "FLAT S235JR 080X05 06.00m UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "15.37416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "584537",
+          "Description": "FLAT S235JR 080X05 2nd Ch. UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "0",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "583416",
+          "Description": "FLAT S235JR 080X06 06.00m UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "15.37416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "584538",
+          "Description": "FLAT S235JR 080X06 2nd Ch. UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "0",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "583417",
+          "Description": "FLAT S235JR 080X08 06.00m UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "15.37416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "584543",
+          "Description": "FLAT S235JR 080X08 2nd Ch. UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "0",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "583418",
+          "Description": "FLAT S235JR 080X10 06.00m UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "15.37416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "584544",
+          "Description": "FLAT S235JR 080X10 2nd Ch. UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "0",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "583419",
+          "Description": "FLAT S235JR 080X12 06.00m UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "15.37416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "584579",
+          "Description": "FLAT S235JR 080X12 2nd Ch. UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "0",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "583421",
+          "Description": "FLAT S235JR 080X15 06.00m UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "15.37416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "584603",
+          "Description": "FLAT S235JR 080X15 2nd Ch. UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "0",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "583426",
+          "Description": "FLAT S235JR 080X25 06.00m UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "15.37416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "583448",
+          "Description": "FLAT S235JR 090X08 06.00m UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "15.37416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "583449",
+          "Description": "FLAT S235JR 090X10 06.00m UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "15.37416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "583457",
+          "Description": "FLAT S235JR 100X05 06.00m UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "15.37416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "584547",
+          "Description": "FLAT S235JR 100X05 2nd Ch. UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "0",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "583458",
+          "Description": "FLAT S235JR 100X06 06.00m UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "15.37416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "584548",
+          "Description": "FLAT S235JR 100X06 2nd Ch. UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "0",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "583459",
+          "Description": "FLAT S235JR 100X08 06.00m UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "15.37416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "584549",
+          "Description": "FLAT S235JR 100X08 2nd Ch. UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "0",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "584437",
+          "Description": "FLAT S235JR 100X10 05.00m UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "15.37416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "583461",
+          "Description": "FLAT S235JR 100X10 06.00m UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "15.37416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "584545",
+          "Description": "FLAT S235JR 100X10 2nd Ch. UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "0",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "583462",
+          "Description": "FLAT S235JR 100X12 06.00m UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "15.37416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "584550",
+          "Description": "FLAT S235JR 100X12 2nd Ch. UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "0",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "583463",
+          "Description": "FLAT S235JR 100X15 06.00m UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "15.37416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "584582",
+          "Description": "FLAT S235JR 100X15 2nd Ch UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "0",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "583464",
+          "Description": "FLAT S235JR 100X20 06.00m UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "15.37416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "584583",
+          "Description": "FLAT S235JR 100X20 2nd Ch UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "0",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "548754",
+          "Description": "ROUND S235JR D09.5 06.00m 2nd Ch.",
+          "ProductionLine": "Rolling Mill",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "518492",
+          "Description": "ROUND S235JR D010 06.00m 2nd Ch.",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "11.93180496",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "548861",
+          "Description": "ROUND S235JR D010 06.00m UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "11.93180496",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "512506",
+          "Description": "ROUND S235JR D012 06.00m 2nd Ch.",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.99416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "535498",
+          "Description": "ROUND S235JR D012 06.00m 2nd Ch.",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.99416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "548862",
+          "Description": "ROUND S235JR D012 06.00m UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.99416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "548863",
+          "Description": "ROUND S235JR D014 06.00m UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.99416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "564773",
+          "Description": "ROUND S235JR D014 06.50m UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.99416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "512836",
+          "Description": "ROUND S235JR D014 2nd Ch.",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "0",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "548203",
+          "Description": "ROUND S235JR D015 06.00m 2nd Ch.",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.99416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "548960",
+          "Description": "ROUND S235JR D015 06.00m UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.99416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "534327",
+          "Description": "ROUND S235JR D016 06.00m 2nd Ch.",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.99416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "548864",
+          "Description": "ROUND S235JR D016 06.00m UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.99416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "566880",
+          "Description": "ROUND S235JR D016 06.50m UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.99416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "583821",
+          "Description": "ROUND S235JR D016 12.00m UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.99416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "583822",
+          "Description": "ROUND S235JR D016 14.00m UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.99416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "533677",
+          "Description": "ROUND S235JR D018 06.00m 2nd Ch.",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.99416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "548865",
+          "Description": "ROUND S235JR D018 06.00m UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.99416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "556976",
+          "Description": "ROUND S235JR D018 06.30m UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.99416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "557912",
+          "Description": "ROUND S235JR D018 06.60m 2nd Ch.",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.99416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "557913",
+          "Description": "ROUND S235JR D018 06.60m UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.99416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "558568",
+          "Description": "ROUND S235JR D018 09.40m UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.99416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "552939",
+          "Description": "ROUND S235JR D018 09.50m UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.99416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "549723",
+          "Description": "ROUND S235JR D018 09.54m UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.99416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "561605",
+          "Description": "ROUND S235JR D018 09.66m UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.99416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "549726",
+          "Description": "ROUND S235JR D018 09.90m UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.99416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "549725",
+          "Description": "ROUND S235JR D018 10.24m UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.99416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "549724",
+          "Description": "ROUND S235JR D018 10.50m UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.99416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "560702",
+          "Description": "ROUND S235JR D019.5 06.00m UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.99416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "560703",
+          "Description": "ROUND S235JR D019.5 06.20m UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.99416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "560704",
+          "Description": "ROUND S235JR D019.5 10.00m UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.99416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "550614",
+          "Description": "ROUND S235JR D020 05.00m UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.99416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "534447",
+          "Description": "ROUND S235JR D020 06.00m 2nd Ch.",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.99416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "548866",
+          "Description": "ROUND S235JR D020 06.00m UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.99416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "556959",
+          "Description": "ROUND S235JR D020 06.60m UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.99416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "534521",
+          "Description": "ROUND S235JR D020 07.50m 2nd Ch.",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.99416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "549733",
+          "Description": "ROUND S235JR D020 10.00m 2nd Ch.",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.99416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "549732",
+          "Description": "ROUND S235JR D020 10.00m UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.99416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "551516",
+          "Description": "ROUND S235JR D022 05.00m UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.99416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "548867",
+          "Description": "ROUND S235JR D022 06.00m UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.99416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "552251",
+          "Description": "ROUND S235JR D022 06.50m UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.99416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "558284",
+          "Description": "ROUND S235JR D022 06.60m UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.99416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "551514",
+          "Description": "ROUND S235JR D022 09.80m UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.99416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "545733",
+          "Description": "ROUND S235JR D022 6.00m 2nd Ch.",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.99416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "547118",
+          "Description": "ROUND S235JR D22 2nd Ch",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "0",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "547346",
+          "Description": "ROUND S235JR D024 06.00m 2nd",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.99416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "585333",
+          "Description": "ROUND S235JR D024 06.00M UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.99416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "585334",
+          "Description": "ROUND S235JR D025 06.00M UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.99416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "585741",
+          "Description": "ROUND S235JR D026 06.00M UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.99416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "585742",
+          "Description": "ROUND S235JR D028 06.00M UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.99416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "585803",
+          "Description": "ROUND S235JR D030 06.00M UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.99416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "585804",
+          "Description": "ROUND S235JR D032 06.00M UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.99416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "585743",
+          "Description": "ROUND S235JR D034 06.00M UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.99416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "585744",
+          "Description": "ROUND S235JR D035 06.00M UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.99416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "585349",
+          "Description": "ROUND S235JR D036 06.00M UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.99416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "585805",
+          "Description": "ROUND S235JR D038 06.00M UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.99416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "585806",
+          "Description": "ROUND S235JR D040 06.00M UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.99416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "585807",
+          "Description": "ROUND S235JR D042 06.00M UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.99416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "585792",
+          "Description": "ROUND S235JR D045 06.00M UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.99416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "548860",
+          "Description": "SQUARE S235JR 9X9 06.00m UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "11.10662825",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "549441",
+          "Description": "SQUARE S235JR 09X09 2nd Ch.",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "0",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "501217",
+          "Description": "SQUARE S235JR 10X10 2nd Ch.",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "0",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "548509",
+          "Description": "_SQUARE S235JR 10X10 2nd Ch.",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "0",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "548835",
+          "Description": "SQUARE S235JR 10X10 06.00m UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.99416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "528666",
+          "Description": "SQUARE S235JR 11X11 2nd Ch.",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "0",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "548858",
+          "Description": "SQUARE S235JR 11X11 06.00m UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.99416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "558702",
+          "Description": "SQUARE S235JR 11.2X11.2 2nd Ch.",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "0",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "583720",
+          "Description": "SQUARE S235JR 11.2X11.2 06.00m UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.99416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "548838",
+          "Description": "SQUARE S235JR 11.5X11.5 06.00m UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.99416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "501218",
+          "Description": "SQUARE S235JR 12X12 2nd Ch.",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "0",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "548836",
+          "Description": "SQUARE S235JR 12X12 06.00m UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.99416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "528667",
+          "Description": "SQUARE S235JR 13X13 2nd Ch.",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "0",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "548859",
+          "Description": "SQUARE S235JR 13X13 06.00m UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.99416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "571918",
+          "Description": "SQUARE S235JR 14X14 06.00m UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.99416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "549075",
+          "Description": "SQUARE S235JR 15X15 2nd Ch.",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "0",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "549076",
+          "Description": "SQUARE S235JR 15X15 06.00m UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.99416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "585481",
+          "Description": "SQUARE S235JR 16X16 06.00M UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.99416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "585476",
+          "Description": "SQUARE S235JR 18X18 06.00M UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.99416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "585475",
+          "Description": "SQUARE S235JR 20X20 06.00M UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.99416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "585344",
+          "Description": "SQUARE S235JR 22X22 06.00M UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.99416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "585343",
+          "Description": "SQUARE S235JR 25X25 06.00M UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.99416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "501219",
+          "Description": "SQUARE S235JR 14X14 2nd Ch.",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "0",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "512892",
+          "Description": "REBARS BSt500S DIN488 D08 NM UNEQUAL",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "0",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "518983",
+          "Description": "REBARS BSt500S DIN488 D08-12.00m",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "5.66713846",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "500927",
+          "Description": "REBARS BSt500S DIN488 D10-10,00m NM SL",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "11.33521471",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "521690",
+          "Description": "REBARS BSt500S DIN488 D10-11,00m NM SL",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "11.33521471",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "518984",
+          "Description": "REBARS BSt500S DIN488 D10-12.00m",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "11.33521471",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "506653",
+          "Description": "REBARS BSt500S DIN488 D10-3,00m NM SL",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "11.33521471",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "500926",
+          "Description": "REBARS BSt500S DIN488 D10-4,00m NM SL",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "11.33521471",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "508865",
+          "Description": "REBARS BSt500S DIN488 D10-5,00m NM SL",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "11.33521471",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "506090",
+          "Description": "REBARS BSt500S DIN488 D10-6,00m NM SL",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "11.33521471",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "521295",
+          "Description": "REBARS BSt500S DIN488 D10-6.00m SL",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "11.33521471",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "508866",
+          "Description": "REBARS BSt500S DIN488 D10-7,00m NM SL",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "11.33521471",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "508872",
+          "Description": "REBARS BSt500S DIN488 D10-8,00m NM SL",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "11.33521471",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "504570",
+          "Description": "REBARS BSt500S DIN488 D10-9,00m NM SL",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "11.33521471",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "519139",
+          "Description": "REBARS BSt500S DIN488 D10-VAR.LEN.",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "0",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "500931",
+          "Description": "REBARS BSt500S DIN488 D12-10,00m NM SL",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.99416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "512012",
+          "Description": "REBARS BSt500S DIN488 D12-11,00m NM SL",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.99416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "518985",
+          "Description": "REBARS BSt500S DIN488 D12-12.00m",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.99416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "506252",
+          "Description": "REBARS BSt500S DIN488 D12-3,00m NM SL",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.99416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "500930",
+          "Description": "REBARS BSt500S DIN488 D12-4,00m NM SL",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.99416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "508869",
+          "Description": "REBARS BSt500S DIN488 D12-5,00m NM SL",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.99416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "508868",
+          "Description": "REBARS BSt500S DIN488 D12-6,00m NM SL",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.99416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "521296",
+          "Description": "REBARS BSt500S DIN488 D12-6.00m SL",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.99416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "508867",
+          "Description": "REBARS BSt500S DIN488 D12-7,00m NM SL",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.99416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "508871",
+          "Description": "REBARS BSt500S DIN488 D12-8,00m NM SL",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.99416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "529651",
+          "Description": "REBARS BSt500S DIN488 D12-9,00m NM SL",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.99416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "519180",
+          "Description": "REBARS BSt500S DIN488 D12-VAR.LEN.",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "0",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "519034",
+          "Description": "REBARS BSt500S DIN488 D14-12.00m",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.99416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "521297",
+          "Description": "REBARS BSt500S DIN488 D14-6.00m SL",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.99416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "519181",
+          "Description": "REBARS BSt500S DIN488 D14-VAR.LEN.",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "0",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "519035",
+          "Description": "REBARS BSt500S DIN488 D16-12.00m",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.99416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "519182",
+          "Description": "REBARS BSt500S DIN488 D16-VAR.LEN.",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "0",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "536250",
+          "Description": "REBARS BSt500S DIN488 D18-10,00m NM SL",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.99416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "536251",
+          "Description": "REBARS BSt500S DIN488 D18-11,00m NM SL",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.99416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "519320",
+          "Description": "REBARS BSt500S DIN488 D18-12.00m",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.99416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "530835",
+          "Description": "REBARS BSt500S DIN488 D18-3,00m NM SL",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.99416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "500942",
+          "Description": "REBARS BSt500S DIN488 D18-4,00m NM SL",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.99416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "508653",
+          "Description": "REBARS BSt500S DIN488 D18-5,00m NM SL",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.99416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "508264",
+          "Description": "REBARS BSt500S DIN488 D18-6,00m NM SL",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.99416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "509003",
+          "Description": "REBARS BSt500S DIN488 D18-7,00m NM SL",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.99416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "524710",
+          "Description": "REBARS BSt500S DIN488 D18-8,00m NM SL",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.99416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "530777",
+          "Description": "REBARS BSt500S DIN488 D18-9,00m NM SL",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.99416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "531573",
+          "Description": "REBARS BSt500S DIN488 D18-VAR.LEN.",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "0",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "519394",
+          "Description": "REBARS BSt500S DIN488 D20 7,00m NM SL",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.99416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "519547",
+          "Description": "REBARS BSt500S DIN488 D20-10,00m NM SL",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.99416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "505222",
+          "Description": "REBARS BSt500S DIN488 D20-11,00m NM SL",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.99416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "529106",
+          "Description": "REBARS BSt500S DIN488 D20-12.00m",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.99416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "512082",
+          "Description": "REBARS BSt500S DIN488 D20-3,00m NM SL",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.99416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "500946",
+          "Description": "REBARS BSt500S DIN488 D20-4,00m NM SL",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.99416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "511765",
+          "Description": "REBARS BSt500S DIN488 D20-5,00m NM SL",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.99416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "505140",
+          "Description": "REBARS BSt500S DIN488 D20-6,00m NM SL",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.99416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "503437",
+          "Description": "REBARS BSt500S DIN488 D20-8,00m NM SL",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.99416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "530555",
+          "Description": "REBARS BSt500S DIN488 D20-9,00m NM SL",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.99416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "531575",
+          "Description": "REBARS BSt500S DIN488 D20-VAR.LEN.",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "0",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "500990",
+          "Description": "REBARS BSt500S DIN488 D22 UNEQUAL",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "0",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "519321",
+          "Description": "REBARS BSt500S DIN488 D22-12.00m",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.99416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "500951",
+          "Description": "REBARS BSt500S DIN488 D22-12.00m NM",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.99416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "500991",
+          "Description": "REBARS BSt500S DIN488 D25 UNEQUAL",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "0",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "500956",
+          "Description": "REBARS BSt500S DIN488 D25-12.00m NM",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.99416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "511772",
+          "Description": "REBARS BSt500S DIN488 D25-5,00m NM SL",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.99416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "585212",
+          "Description": "EQ.ANGLE S235JR 035X2.7 06.00MUNBUNDLE",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "13.00511581",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "585213",
+          "Description": "EQ.ANGLE S235JR 035X3.7 06.00MUNBUNDLE",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.25",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "585167",
+          "Description": "EQ.ANGLE S235JR 035X03 05.10M UNBUNDLE",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.23416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "585168",
+          "Description": "EQ.ANGLE S235JR 035X03 05.40M UNBUNDLE",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.23416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "585423",
+          "Description": "EQ.ANGLE S235JR 035X04 06.40M UNBUNDLE",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.23416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "585169",
+          "Description": "EQ.ANGLE S235JR 040X04 05.40M UNBUNDLE",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.61416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "585448",
+          "Description": "EQ.ANGLE S235JR 040X04 06.40M UNBUNDLE",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.61416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "585210",
+          "Description": "EQ.ANGLE S235JR 040X2.7 06.00MUNBUNDLE",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "12.08040818",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "585211",
+          "Description": "EQ.ANGLE S235JR 040X3.7 06.00MUNBUNDLE",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.63",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "585969",
+          "Description": "ROUND S235JR D030 06.20M UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.99416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "585797",
+          "Description": "FLAT S235JR 025X04 06.00M UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "11.33092545",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "585995",
+          "Description": "EQ.ANGLE S235JR 030X2.7 06.00MUNBUNDLE",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "11.35507289",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "586006",
+          "Description": "EQ.ANGLE S235JR 050X05 06.20M UNBUNDLE",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.61416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "585209",
+          "Description": "EQ.ANGLE S235JR 050X05 06.60M UNBUNDLE",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.61416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "586041",
+          "Description": "EQ.ANGLE S235JR 050X08 12.00MUNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "11.4",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "586608",
+          "Description": "FLAT S235JR 120X08 06.00M UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "15.37416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "586625",
+          "Description": "FLAT S235JR 120X12 06.00M UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "15.37416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "586627",
+          "Description": "FLAT S235JR 140X08 06.00M UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "15.37416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "586803",
+          "Description": "ROUND S235JR D027 06.60M UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.99416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "586864",
+          "Description": "ROUND S235JR D020 06.20M UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.99416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "586870",
+          "Description": "ROUND S235JR D022 09.75M UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.99416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "587567",
+          "Description": "UPN S235JR 30X15X4 06.00M UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "11.685",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "586930",
+          "Description": "FLAT S235JR 025X06 06.00M UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "15.37416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "587577",
+          "Description": "FLAT S235JR 120X05 06.00M UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "15.37416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "587583",
+          "Description": "FLAT S235JR 120X15 06.00M UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "15.37416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "587581",
+          "Description": "FLAT S235JR 120X05 06.00M UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "15.37416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "587562",
+          "Description": "EQ.ANGLE S235JR 040X05 12.00M UNBUNDLE",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.61416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "587857",
+          "Description": "ROUND S235JR D025 12.00M UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.99416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "587584",
+          "Description": "FLAT S235JR 120X20 06.00M UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "15.37416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "587582",
+          "Description": "FLAT S235JR 120X06 06.00m UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "15.37416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "588953",
+          "Description": "FLAT S235JR 40X12 06.00M UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "15.37416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "588954",
+          "Description": "FLAT S235JR 40X15 06.00M UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "15.37416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "588952",
+          "Description": "FLAT S235JR 50X15 06.00M UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "15.37416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "501220",
+          "Description": "SQUARE S235JR 16X16 2nd Ch.",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.99416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "588974",
+          "Description": "FLAT S235JR 140X05 06.00m UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "12.35",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "588975",
+          "Description": "FLAT S235JR 140X10 06.00m UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "15.37416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "586630",
+          "Description": "FLAT S235JR 140X12 06.00m UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "15.37416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "588976",
+          "Description": "FLAT S235JR 140X15 06.00m UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "15.37416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "588977",
+          "Description": "FLAT S235JR 140X20 06.00m UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "15.37416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "588978",
+          "Description": "FLAT S235JR 140X10 06.20m UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "15.37416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "589042",
+          "Description": "FLAT S235JR 120X10 06.00m UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "15.37416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "589142",
+          "Description": "FLAT S235JR 090X05 06.00m UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "15.37416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "589143",
+          "Description": "FLAT S235JR 040X20 06.00m UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "12.35",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "584534",
+          "Description": "FLAT S235JR 060X10 2nd Ch. UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "15.37416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "584907",
+          "Description": "FLAT S235JR 035X03 06.00m UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "8.62795084",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "584908",
+          "Description": "FLAT S235JR 035X04 06.00m UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "11.9185577",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "584909",
+          "Description": "FLAT S235JR 035X05 06.00m UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "15.37416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "584910",
+          "Description": "FLAT S235JR 035X06 06.00m UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "15.37416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "584911",
+          "Description": "FLAT S235JR 035X08 06.00m UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "15.37416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "584912",
+          "Description": "FLAT S235JR 035X10 06.00m UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "15.37416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "586607",
+          "Description": "FLAT S235JR 120X08 2nd Ch. UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "15.37416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "586624",
+          "Description": "FLAT S235JR 120X12 2nd Ch. UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "15.37416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "586626",
+          "Description": "FLAT S235JR 140X08 2nd Ch. UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "15.37416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "586929",
+          "Description": "FLAT S235JR 025X06 2nd Ch. UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "15.37416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "586629",
+          "Description": "FLAT S235JR 140X12 2nd Ch. UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "15.37416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "587578",
+          "Description": "FLAT S235JR 120X06 2nd Ch. UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "15.37416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "587579",
+          "Description": "FLAT S235JR 120X15 2nd Ch. UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "15.37416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "587580",
+          "Description": "FLAT S235JR 120X20 2nd Ch. UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "15.37416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "585089",
+          "Description": "EQ.ANGLE S235JR 030X03 05.50m UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "12.3733258",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "588258",
+          "Description": "FLAT S235JR 070X15 2nd Ch. UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "15.37416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "588486",
+          "Description": "FLAT S235JR 040X03 04.00m 2nd Ch. UNBUND",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "8.589931871",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "588995",
+          "Description": "FLAT S235JR 050X15 2nd Ch. UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "15.37416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "589054",
+          "Description": "FLAT S235JR 040X15 2nd Ch. UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "15.37416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "589055",
+          "Description": "FLAT S235JR 040X12 2nd Ch. UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "15.37416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "585446",
+          "Description": "EQ.ANGLE S235JR 035X3.7 2nd Ch. UNBUNDLE",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.23416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "585994",
+          "Description": "EQ.ANGLE S235JR 030x2.7 2nd Ch UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "11.34245614",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "586039",
+          "Description": "EQ.ANGLE S235JR 050X08 2nd Ch. UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "12.35",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "586040",
+          "Description": "EQ.ANGLE S235JR 050X08 06.00m UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "12.35",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "586355",
+          "Description": "EQ.ANGLE S235JR 050X10 06.00m UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "12.35",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "586357",
+          "Description": "EQ.ANGLE S235JR 050X10 2nd Ch. UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "12.35",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "587859",
+          "Description": "EQ.ANGLE S235JR 045X04 2nd Ch. UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.61416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "587878",
+          "Description": "EQ.ANGLE S235JR 040X05 2nd Ch. UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.61416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "589129",
+          "Description": "EQ.ANGLE S235JR 040X2.7 2nd Ch. UNBUNDLE",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "12.06733414",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "588235",
+          "Description": "UPN S235JR 30X15X4 2ND CH. UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "11.685",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "589180",
+          "Description": "REBARS BSt500S DIN488 D11-12.00m",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "13.0125805",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "548208",
+          "Description": "ROUND S235JR D015 6.00m",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.99416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "589908",
+          "Description": "EQ.ANGLE S235JR 030X03 05.40m UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "12.1493742",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "590126",
+          "Description": "EQ.ANGLE S235JR 030X2.5 05.40m UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "9.007364748",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "590298",
+          "Description": "FLAT S235JR 050X03 04.00m UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "7.968049939",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "590306",
+          "Description": "EQ.ANGLE S235JR 060X05 06.00m UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.25",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "590307",
+          "Description": "EQ.ANGLE S235JR 060X06 06.00m UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.25",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "590308",
+          "Description": "EQ.ANGLE S235JR 060X05 12.00m UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.25",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "590309",
+          "Description": "EQ.ANGLE S235JR 060X06 12.00m UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.25",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "590743",
+          "Description": "SQUARE S235JR 30X30 06.00m UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.99416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "581866",
+          "Description": "REBARS BSt500S DIN488 D22-8,80m NM SL",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.99416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "586936",
+          "Description": "REBARS BSt500S DIN488 D22-10,20m NM SL",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.99416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "591275",
+          "Description": "REBARS BSt500S DIN488 D22-9,40m NM SL",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.99416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "536097",
+          "Description": "REBARS BSt500S DIN488 D25-10.80m SL",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.99416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "564942",
+          "Description": "REBARS BSt500S DIN488 D25-9,40m NM SL",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.99416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "585873",
+          "Description": "REBARS BSt500S DIN488 D25-10,20m NM SL",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.99416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "591286",
+          "Description": "FLAT S235JR 100X10 06.50m UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "15.37416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "591488",
+          "Description": "FLAT S235JR 140X06 06.00m UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "15.37416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "591489",
+          "Description": "FLAT S235JR 075X06 06.00m UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "15.37416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "591582",
+          "Description": "FLAT S235JR 045X05 06.00m UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "15.37416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "591583",
+          "Description": "FLAT S235JR 045X06 06.00m UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "15.37416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "591593",
+          "Description": "FLAT S235JR 030X12 06.00m UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "15.37416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "500955",
+          "Description": "REBARS BSt500S DIN488 D25-11,00m NM SL",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.99416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "500957",
+          "Description": "REBARS BSt500S DIN488 D25-14,00m NM",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.99416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "503551",
+          "Description": "REBARS BSt500S DIN488 D25-13,00m NM SL",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.99416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "500954",
+          "Description": "REBARS BSt500S DIN488 D25-10,00m NM SL",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.99416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "537877",
+          "Description": "REBARS BSt500S DIN488 D22-10,00m NM SL",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.99416667",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "591719",
+          "Description": "FLAT S235JR 025X03 06.00m UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "10.54454225",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "592019",
+          "Description": "ROUND S235JR D014 08.10m UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "14.99495583",
+          "BaseUnitOfMeasure": "Tn"
+      },
+      {
+          "SapCode": "503379",
+          "Description": "FLAT S235JR 025X03 04.00m UNBUNDLED",
+          "ProductionLine": "Rolling Mill",
+          "ProductionPerHour": "8.41405355",
+          "BaseUnitOfMeasure": "Tn"
+      }
+  ]

@@ -1,0 +1,24 @@
+<div class="container" style="margin-top: auto;">
+  <div class="row">
+    <!-- <div class="col-lg-4 col-md-6 col-sm-12"> -->
+      <table style="width:100%">
+        <tr>
+          <th>Product ID</th>
+          <th>SAP Code</th>
+          <th>Material Description</th>
+          <th>Material Group</th>
+          <th>Production Line</th>
+        </tr>
+        <tr *ngFor="let product of products">
+          <td>{{product.id}}</td>
+          <td>{{product.sapCode}}</td>
+          <td>{{product.description}}</td>
+          <td>{{product.materialGroupNumber}}</td>
+          <td>{{product.productionLine}}</td>
+
+        </tr>
+
+      </table>
+    <!-- </div> -->
+  </div>
+</div>

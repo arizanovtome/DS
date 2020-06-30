@@ -1,0 +1,8 @@
+.dropdown-toggle, .dropdown-item {
+    cursor: pointer;
+
+}
+ul, li, a {
+    display:inline;
+    padding: 5px;
+}
