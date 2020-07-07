@@ -7,6 +7,7 @@ import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 import { BsDropdownModule } from 'ngx-bootstrap/dropdown';
 import { ButtonsModule } from 'ngx-bootstrap/buttons';
 import { BsDatepickerModule } from 'ngx-bootstrap/datepicker';
+import { TypeaheadModule } from 'ngx-bootstrap/typeahead';
 import { RouterModule } from '@angular/router';
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
@@ -60,6 +61,7 @@ export function tokenGetter() {
       ButtonsModule.forRoot(),
       BsDatepickerModule.forRoot(),
       RouterModule.forRoot(appRoutes),
+      TypeaheadModule.forRoot(),
       JwtModule.forRoot({
          config: {
             tokenGetter,

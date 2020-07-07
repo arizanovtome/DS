@@ -22,10 +22,19 @@
                 
                 <td><div>{{item.value["sapCode"] || ""}}</div></td>
                 
-                <td><select (change)="selectProduct(i)" class="form-control" formControlName="description">
+                <!-- <td><select (change)="selectProduct(i)" class="form-control" formControlName="description">
                   <option>---</option>
                   <option *ngFor="let schlatterProduct of schlatterProducts">{{schlatterProduct.description}}</option>
-                </select></td>
+                </select></td> -->
+
+                <td><input formControlName="description" [typeahead]="schlatterProductsDescription" (typeaheadNoResults)="typeaheadNoResults($event)" class="form-control" 
+                    [ngClass]="{'is-invalid': no_rows.get([i, 'description']).errors && no_rows.get([i, 'description']).touched}">
+
+                    <div class="invalid-feedback"
+                    *ngIf="no_rows.get([i, 'description']).touched && no_rows.get([i, 'description']).hasError('required')">qunaityPc is required</div>
+                   
+
+                </td>
 
                 <td><input class="form-control" formControlName="qunatityPc"
                    [ngClass]="{'is-invalid': no_rows.get([i, 'qunatityPc']).errors && no_rows.get([i, 'qunatityPc']).touched}">

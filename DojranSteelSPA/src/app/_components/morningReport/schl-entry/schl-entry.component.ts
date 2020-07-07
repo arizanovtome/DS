@@ -18,8 +18,9 @@ export class SchlEntryComponent implements OnInit {
   budgetedQuantity: number;
   availableTime: number;
   entryForm: FormGroup;
-
-
+  selected: string;
+  noResult = false;
+  schlatterProductsDescription: string[];
 
   constructor(private morningProductService: MorningProductService, private fb: FormBuilder) { }
 
@@ -50,9 +51,11 @@ export class SchlEntryComponent implements OnInit {
     this.morningProductService.getProducts().subscribe((schlatterProducts: MorningProduct[]) => {
       // tslint:disable-next-line:no-string-literal
       this.schlatterProducts = schlatterProducts.filter(x => x.productionLine === 'Schl');
+      this.schlatterProductsDescription = this.schlatterProducts.map(d => d.description);
     }, error => {
       console.log('Nastana greshka pri prevzemanjeto');
     });
+    
   }
 
   selectProduct(i: number) {
@@ -91,6 +94,10 @@ export class SchlEntryComponent implements OnInit {
       availableTime: ['', Validators.required],
       qunatityBd: ['', Validators.required],
     }));
+  }
+
+  typeaheadNoResults(event: boolean): void {
+    this.noResult = event;
   }
 
 }
