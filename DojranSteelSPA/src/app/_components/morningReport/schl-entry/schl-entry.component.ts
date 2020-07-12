@@ -19,7 +19,7 @@ export class SchlEntryComponent implements OnInit {
   availableTime: number;
   entryForm: FormGroup;
   selected: string;
-  noResult = false;
+  //noResult = false;
   schlatterProductsDescription: string[];
 
   constructor(private morningProductService: MorningProductService, private fb: FormBuilder) { }
@@ -32,8 +32,9 @@ export class SchlEntryComponent implements OnInit {
           date: [moment().subtract(1, 'days').format('DD/MM/YYYY'), Validators.required],
           sapCode: ['', Validators.required],
           description: ['', Validators.required],
+          noResult: [false],
           qunatityPc: ['', Validators.required],
-          qunatityTn: ['', Validators.required],
+          qunatityTn: ['', Validators.required, Validators.pattern(/^[0-9]*$/)],
           availableTime: ['', Validators.required],
           qunatityBd: ['', Validators.required],
         })
@@ -43,7 +44,10 @@ export class SchlEntryComponent implements OnInit {
     this.loadProducts();
     this.createEntryForm();
     this.addRow();
-    this.addRow();
+    // this.addRow();
+    // this.addRow();
+  }
+  addRowClick(){
     this.addRow();
   }
 
@@ -59,19 +63,26 @@ export class SchlEntryComponent implements OnInit {
   }
 
   selectProduct(i: number) {
-    const sapCode = this.schlatterProducts.find
+    const selectedProduct = this.schlatterProducts.find
     // tslint:disable-next-line:no-string-literal
-    (x => x.description === this.no_rows.controls[i].value['description']).sapCode;
+    (x => x.description === this.no_rows.controls[i].value['description']);
     // tslint:disable-next-line:no-string-literal
-    this.no_rows.controls[i].value['sapCode'] = sapCode;
+    this.no_rows.controls[i].patchValue({
+      sapCode: selectedProduct.sapCode,
+      qunatityBd: parseFloat(selectedProduct.productionPerHour.toString().replace(',', '.')) * this.no_rows.controls[i].value['availableTime'] / 60
+    })
 
   }
   calculateBD(avTime: any, i: number){
-    const budgetedQuantity = this.schlatterProducts.find
+
+    console.log("calc BD");
+    const selectedProduct = this.schlatterProducts.find
     // tslint:disable-next-line:no-string-literal
-    (x => x.description === this.no_rows.controls[i].value['description']).productionPerHour;
+    (x => x.description === this.no_rows.controls[i].value['description']);
     // tslint:disable-next-line:no-string-literal
-    this.no_rows.controls[i].value['qunatityBd'] = parseFloat(budgetedQuantity.toString().replace(',', '.')) * avTime / 60;
+    this.no_rows.controls[i].patchValue({
+      qunatityBd: parseFloat(selectedProduct.productionPerHour.toString().replace(',', '.')) * avTime / 60
+    })
   }
 
   createEntryForm() {
@@ -89,6 +100,7 @@ export class SchlEntryComponent implements OnInit {
       date: [moment().subtract(1, 'days').format('DD/MM/YYYY'), Validators.required],
       sapCode: ['', Validators.required],
       description: ['', Validators.required],
+      noResult: [false],
       qunatityPc: ['', Validators.required],
       qunatityTn: ['', Validators.required],
       availableTime: ['', Validators.required],
@@ -96,8 +108,12 @@ export class SchlEntryComponent implements OnInit {
     }));
   }
 
-  typeaheadNoResults(event: boolean): void {
-    this.noResult = event;
+  typeaheadNoResults(event: boolean, i: number): void {
+    console.log(this.no_rows.controls[i]);
+    console.log(event);
+    this.no_rows.controls[i].patchValue({
+      noResult: event
+    })
   }
 
 }

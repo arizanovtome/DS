@@ -18,43 +18,34 @@
         <!-- (ngSubmit)="eneterProduction()" -->
         <tr *ngFor="let item of no_rows.controls; let i=index" [formGroupName]="i">
 
-                <td><input class="form-control" formControlName="date" type="text" bsDatepicker [bsConfig]="{ dateInputFormat: 'DD/MM/YYYY' }"></td>
+          <td><input class="form-control" formControlName="date" type="text" bsDatepicker [bsConfig]="{ dateInputFormat: 'DD/MM/YYYY' }"></td>
                 
-                <td><div>{{item.value["sapCode"] || ""}}</div></td>
-                
-                <!-- <td><select (change)="selectProduct(i)" class="form-control" formControlName="description">
-                  <option>---</option>
-                  <option *ngFor="let schlatterProduct of schlatterProducts">{{schlatterProduct.description}}</option>
-                </select></td> -->
+          <td><div>{{item.value["sapCode"] || ""}}</div></td>
 
-                <td><input formControlName="description" [typeahead]="schlatterProductsDescription" (typeaheadNoResults)="typeaheadNoResults($event)" class="form-control" 
-                    [ngClass]="{'is-invalid': no_rows.get([i, 'description']).errors && no_rows.get([i, 'description']).touched}">
+          <td><input formControlName="description" [typeahead]="schlatterProductsDescription" (typeaheadNoResults)="typeaheadNoResults($event, i)" (typeaheadOnSelect)="selectProduct(i)" class="form-control"
+              [ngClass]="{'is-invalid': no_rows.get([i, 'noResult']).value}">
 
-                    <div class="invalid-feedback"
-                    *ngIf="no_rows.get([i, 'description']).touched && no_rows.get([i, 'description']).hasError('required')">qunaityPc is required</div>
-                   
+              <div class="invalid-feedback" *ngIf="no_rows.get([i, 'noResult']).value && no_rows.get([i, 'description']).touched">qunaityPc is required</div>
+          </td>
 
-                </td>
+          <td><input class="form-control" formControlName="qunatityPc"
+              [ngClass]="{'is-invalid': no_rows.get([i, 'qunatityPc']).errors && no_rows.get([i, 'qunatityPc']).touched}">
+              
+          <div class="invalid-feedback"
+            *ngIf="no_rows.get([i, 'qunatityPc']).touched && no_rows.get([i, 'qunatityPc']).hasError('required')">qunaityPc is required</div>
+          </td>
 
-                <td><input class="form-control" formControlName="qunatityPc"
-                   [ngClass]="{'is-invalid': no_rows.get([i, 'qunatityPc']).errors && no_rows.get([i, 'qunatityPc']).touched}">
-                   
-                <div class="invalid-feedback"
-                 *ngIf="no_rows.get([i, 'qunatityPc']).touched && no_rows.get([i, 'qunatityPc']).hasError('required')">qunaityPc is required</div>
-                </td>
+          <td><input class="form-control" formControlName="qunatityTn" [ngClass]="{'is-invalid': no_rows.get([i, 'qunatityTn']).errors && no_rows.get([i, 'qunatityTn']).touched}">
+          <div class="invalid-feedback" *ngIf="no_rows.get([i, 'qunatityTn']).touched && (no_rows.get([i, 'qunatityTn']).hasError('required') || no_rows.get([i, 'qunatityTn']).hasError('pattern'))">qunaityTn is required</div>
+        </td>
 
-                <td><input class="form-control" formControlName="qunatityTn"
-                   [ngClass]="{'is-invalid': no_rows.get([i, 'qunatityTn']).errors && no_rows.get([i, 'qunatityTn']).touched}">
-                <div class="invalid-feedback" *ngIf="no_rows.get([i, 'qunatityTn']).touched && no_rows.get([i, 'qunatityTn']).hasError('required')">qunaityTn is required</div>
-              </td>
+          <td><input class="form-control" formControlName="availableTime" (change)="calculateBD($event.target.value, i)" 
+            [ngClass]="{'is-invalid': no_rows.get([i, 'availableTime']).errors && no_rows.get([i, 'availableTime']).touched}">
+          <div class="invalid-feedback" *ngIf="no_rows.get([i, 'availableTime']).touched && no_rows.get([i, 'availableTime']).hasError('required')">Time is required</div>
+        </td>
 
-                <td><input class="form-control" formControlName="availableTime" (focusout)="calculateBD($event.target.value, i)"
-                    [ngClass]="{'is-invalid': no_rows.get([i, 'availableTime']).errors && no_rows.get([i, 'availableTime']).touched}">
-                <div class="invalid-feedback" *ngIf="no_rows.get([i, 'availableTime']).touched && no_rows.get([i, 'availableTime']).hasError('required')">Time is required</div>
-              </td>
-
-              <td><div>{{item.value["qunatityBd"] || ""}}</div></td>
-              <p>Form value: {{entryForm.get('rows').value | json}}</p>
+        <td><div>{{item.value["qunatityBd"] | number}}</div></td>
+        <!-- <p>Form value: {{entryForm.get('rows').value | json}}</p> -->
 
       </tr>
       </table>
@@ -64,8 +55,9 @@
           </form>
         </form>
 
+        <button type="button" class="btn btn-primary" (click)="addRowClick()">Add Row</button>
 </div>
-<p>Form value: {{entryForm.value | json}}</p>
+<!-- <p>Form value: {{entryForm.value | json}}</p>
 <p>Form status: {{entryForm.status | json}}</p>
-<p>Form value: {{no_rows[1] | json}}</p>
+<p>Form value: {{no_rows[1] | json}}</p> -->
 
