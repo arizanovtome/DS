@@ -19,7 +19,7 @@ export class SchlEntryComponent implements OnInit {
   availableTime: number;
   entryForm: FormGroup;
   selected: string;
-  //noResult = false;
+  // noResult = false;
   schlatterProductsDescription: string[];
 
   constructor(private morningProductService: MorningProductService, private fb: FormBuilder) { }
@@ -33,9 +33,9 @@ export class SchlEntryComponent implements OnInit {
           sapCode: ['', Validators.required],
           description: ['', Validators.required],
           noResult: [false],
-          qunatityPc: ['', Validators.required],
-          qunatityTn: ['', Validators.required, Validators.pattern(/^[0-9]*$/)],
-          availableTime: ['', Validators.required],
+          qunatityPc: ['', [Validators.required, Validators.pattern('^[0-9]*$')]],
+          qunatityTn: ['', [Validators.required, Validators.pattern('^-?[0-9]\\d*(\\.\\d{1,3})?$')]],
+          availableTime: ['', [Validators.required, Validators.pattern('^[0-9]*$')]],
           qunatityBd: ['', Validators.required],
         })
       ])
@@ -59,7 +59,6 @@ export class SchlEntryComponent implements OnInit {
     }, error => {
       console.log('Nastana greshka pri prevzemanjeto');
     });
-    
   }
 
   selectProduct(i: number) {
@@ -69,20 +68,19 @@ export class SchlEntryComponent implements OnInit {
     // tslint:disable-next-line:no-string-literal
     this.no_rows.controls[i].patchValue({
       sapCode: selectedProduct.sapCode,
+      // tslint:disable-next-line:no-string-literal
       qunatityBd: parseFloat(selectedProduct.productionPerHour.toString().replace(',', '.')) * this.no_rows.controls[i].value['availableTime'] / 60
-    })
+    });
 
   }
   calculateBD(avTime: any, i: number){
-
-    console.log("calc BD");
     const selectedProduct = this.schlatterProducts.find
     // tslint:disable-next-line:no-string-literal
     (x => x.description === this.no_rows.controls[i].value['description']);
     // tslint:disable-next-line:no-string-literal
     this.no_rows.controls[i].patchValue({
       qunatityBd: parseFloat(selectedProduct.productionPerHour.toString().replace(',', '.')) * avTime / 60
-    })
+    });
   }
 
   createEntryForm() {
@@ -101,9 +99,9 @@ export class SchlEntryComponent implements OnInit {
       sapCode: ['', Validators.required],
       description: ['', Validators.required],
       noResult: [false],
-      qunatityPc: ['', Validators.required],
-      qunatityTn: ['', Validators.required],
-      availableTime: ['', Validators.required],
+      qunatityPc: ['', [Validators.required, Validators.pattern('^[0-9]*$')]],
+      qunatityTn: ['', [Validators.required, Validators.pattern('^-?[0-9]\\d*(\\.\\d{1,3})?$')]],
+      availableTime: ['', [Validators.required, Validators.pattern('^[0-9]*$')]],
       qunatityBd: ['', Validators.required],
     }));
   }
@@ -113,7 +111,7 @@ export class SchlEntryComponent implements OnInit {
     console.log(event);
     this.no_rows.controls[i].patchValue({
       noResult: event
-    })
+    });
   }
 
 }

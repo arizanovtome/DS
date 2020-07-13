@@ -28,20 +28,22 @@
               <div class="invalid-feedback" *ngIf="no_rows.get([i, 'noResult']).value && no_rows.get([i, 'description']).touched">qunaityPc is required</div>
           </td>
 
-          <td><input class="form-control" formControlName="qunatityPc"
-              [ngClass]="{'is-invalid': no_rows.get([i, 'qunatityPc']).errors && no_rows.get([i, 'qunatityPc']).touched}">
+        <td><input class="form-control" formControlName="qunatityPc"
+          [ngClass]="{'is-invalid': no_rows.get([i, 'qunatityPc']).errors && no_rows.get([i, 'qunatityPc']).touched}">
               
-          <div class="invalid-feedback"
-            *ngIf="no_rows.get([i, 'qunatityPc']).touched && no_rows.get([i, 'qunatityPc']).hasError('required')">qunaityPc is required</div>
-          </td>
+          <div class="invalid-feedback" *ngIf="no_rows.get([i, 'qunatityPc']).touched && no_rows.get([i, 'qunatityPc']).hasError('required')">qunaityPc is required</div>
+          <div class="invalid-feedback" *ngIf="no_rows.get([i, 'qunatityPc']).touched && no_rows.get([i, 'qunatityPc']).hasError('pattern')">Quantity in PC must be whole number</div>
+        </td>
 
           <td><input class="form-control" formControlName="qunatityTn" [ngClass]="{'is-invalid': no_rows.get([i, 'qunatityTn']).errors && no_rows.get([i, 'qunatityTn']).touched}">
-          <div class="invalid-feedback" *ngIf="no_rows.get([i, 'qunatityTn']).touched && (no_rows.get([i, 'qunatityTn']).hasError('required') || no_rows.get([i, 'qunatityTn']).hasError('pattern'))">qunaityTn is required</div>
+          <div class="invalid-feedback" *ngIf="no_rows.get([i, 'qunatityTn']).touched && no_rows.get([i, 'qunatityTn']).hasError('required')">qunaityTn is required</div>
+          <div class="invalid-feedback" *ngIf="no_rows.get([i, 'qunatityTn']).touched && no_rows.get([i, 'qunatityTn']).hasError('pattern')">qunaityTn format is X.XXX</div>
         </td>
 
           <td><input class="form-control" formControlName="availableTime" (change)="calculateBD($event.target.value, i)" 
             [ngClass]="{'is-invalid': no_rows.get([i, 'availableTime']).errors && no_rows.get([i, 'availableTime']).touched}">
           <div class="invalid-feedback" *ngIf="no_rows.get([i, 'availableTime']).touched && no_rows.get([i, 'availableTime']).hasError('required')">Time is required</div>
+          <div class="invalid-feedback" *ngIf="no_rows.get([i, 'availableTime']).touched && no_rows.get([i, 'availableTime']).hasError('pattern')">Available Time must be whole number</div>
         </td>
 
         <td><div>{{item.value["qunatityBd"] | number}}</div></td>
