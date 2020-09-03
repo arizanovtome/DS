@@ -3,7 +3,9 @@ import { environment } from 'src/environments/environment';
 import { HttpClient, HttpHeaders } from '@angular/common/http';
 import { Observable } from 'rxjs';
 import { MeshProduct } from '../_models/meshProduct';
+import { MorningProduct } from '../_models/morningProduct';
 import { MeshProductivity } from '../_models/meshProductivity';
+import { MorningEntryProduct } from '../_models/morningEntryProduct';
 
 
 @Injectable({
@@ -32,5 +34,12 @@ export class MeshProductService {
 
   getEfectivities(): Observable<MeshProductivity[]> {
     return this.http.get<MeshProductivity[]>(this.baseUrl + 'meshEfectivity');
+  }
+
+  schlatterEntry(product: MorningEntryProduct) {
+
+    console.log('Vo servis');
+    console.log(product);
+    return this.http.put(this.baseUrl + 'schlatterentry', product);
   }
 }

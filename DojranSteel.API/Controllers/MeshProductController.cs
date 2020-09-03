@@ -70,5 +70,18 @@ namespace DojranSteel.API.Controllers
             throw new Exception($"Add mesh product {meshProductForAdd.Id} failed on save");
         }
 
+        [HttpPut("schlatterentry")]
+        public async Task<IActionResult> SchlatterEntry(EntryProduct meshProduct)
+        {
+            var meshProductForAdd = _mapper.Map<MorningProductForAddDto>(meshProduct);
+
+            _repo.Add(meshProduct);
+
+            if (await _repo.SaveAll())
+                return NoContent();
+            
+            throw new Exception($"Add mesh product {meshProductForAdd.Id} failed on save");
+        }
+
     }
 }

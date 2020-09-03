@@ -28,7 +28,8 @@ import { MeshProductEditResolver } from './_resolvers/mesh-product-edit.resolver
 import { MeshProductAddComponent } from './_components/mesh-product-add/mesh-product-add.component';
 import { MeshProductivityComponent } from './_components/mesh-productivity/mesh-productivity.component';
 import { SchlEntryComponent } from './_components/morningReport/schl-entry/schl-entry.component';
-import { CommonModule } from '@angular/common';
+import { CommonModule, DatePipe } from '@angular/common';
+import { TimepickerModule } from 'ngx-bootstrap/timepicker';
 
 export function tokenGetter() {
    return localStorage.getItem('token');
@@ -60,6 +61,7 @@ export function tokenGetter() {
       BsDropdownModule.forRoot(),
       ButtonsModule.forRoot(),
       BsDatepickerModule.forRoot(),
+      TimepickerModule.forRoot(),
       RouterModule.forRoot(appRoutes),
       TypeaheadModule.forRoot(),
       JwtModule.forRoot({
@@ -74,7 +76,8 @@ export function tokenGetter() {
       AuthService,
       AuthGuard,
       MeshProductService,
-      MeshProductEditResolver
+      MeshProductEditResolver,
+      DatePipe
    ],
    bootstrap: [
       AppComponent

@@ -3,14 +3,16 @@ using System;
 using DojranSteel.API.Data;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 namespace DojranSteel.API.Migrations
 {
     [DbContext(typeof(DataContext))]
-    partial class DataContextModelSnapshot : ModelSnapshot
+    [Migration("20200825103822_RenameField")]
+    partial class RenameField
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -24,8 +26,6 @@ namespace DojranSteel.API.Migrations
                     b.Property<int>("AvailableTime");
 
                     b.Property<float>("BudgetedQunatity");
-
-                    b.Property<DateTime>("Date");
 
                     b.Property<string>("Description");
 

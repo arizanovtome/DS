@@ -12,5 +12,6 @@ namespace DojranSteel.API.Data
         public DbSet<MeshEfectivity> MeshEfectivity { get; set; }
         public DbSet<MorningProduct> MorningProduct { get; set; }
         public DbSet<MeshEntryProduct> MeshEntryProduct { get; set; }
+        public DbSet<EntryProduct> EntryProduct { get; set; }
     }
 }
