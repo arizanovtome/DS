@@ -37,9 +37,6 @@ export class MeshProductService {
   }
 
   schlatterEntry(product: MorningEntryProduct) {
-
-    console.log('Vo servis');
-    console.log(product);
     return this.http.put(this.baseUrl + 'schlatterentry', product);
   }
 }

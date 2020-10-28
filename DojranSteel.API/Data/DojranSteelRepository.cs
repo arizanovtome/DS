@@ -61,5 +61,12 @@ namespace DojranSteel.API.Data
         {
             return await _context.SaveChangesAsync() > 0;
         }
+
+        public async Task<IEnumerable<EntryProduct>> GetMorningEntry()
+        {
+            var morningEntry = await _context.EntryProduct.ToListAsync();
+
+            return morningEntry;
+        }
     }
 }

@@ -34,6 +34,16 @@ namespace DojranSteel.API.Controllers
             return Ok(morningProductsToReturn);
         }
 
+        [HttpGet("morningentry")]
+        public async Task<IActionResult> GetMorningEntry()
+        {
+            var morningEntry = await _repo.GetMorningEntry();
+
+            var morningEntryToReturn = _mapper.Map<IEnumerable<MorningEntryForListDto>>(morningEntry);
+
+            return Ok(morningEntryToReturn);
+        }
+
         // [HttpGet("meshproduct/{id}")]
         // public async Task<IActionResult> GetMeshProduct(int id)
         // {

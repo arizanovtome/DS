@@ -14,5 +14,6 @@ namespace DojranSteel.API.Data
          Task<MeshProduct> GetMeshProduct(int id);
          Task<IEnumerable<MeshEfectivity>> GetMeshEfectivities();
          Task<MeshEfectivity> GetMeshEfectivity(int id);
+         Task<IEnumerable<EntryProduct>> GetMorningEntry();
     }
 }

@@ -3,6 +3,7 @@ import { environment } from 'src/environments/environment';
 import { HttpClient, HttpHeaders } from '@angular/common/http';
 import { Observable } from 'rxjs';
 import { MorningProduct } from '../_models/morningProduct';
+import { MorningEntryProduct } from '../_models/morningEntryProduct';
 
 
 @Injectable({
@@ -15,6 +16,10 @@ export class MorningProductService {
 
   getProducts(): Observable<MorningProduct[]> {
     return this.http.get<MorningProduct[]>(this.baseUrl + 'morningproduct');
+  }
+
+  getMorningEntry(): Observable<MorningEntryProduct[]> {
+    return this.http.get<MorningEntryProduct[]>(this.baseUrl + 'morningentry');
   }
 
   // getProduct(id: number): Observable<MeshProduct> {
